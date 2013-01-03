@@ -1,7 +1,16 @@
 ---
-title: Welcome
-layout: default
+title: Pages 
+layout: page
+header: Pages
+group: navigation
 ---
+{% include JB/setup %}
+
+<h2 class="caption spinto-editable">All Pages</h2>
+<ul>
+{% assign pages_list = site.pages %}
+{% include JB/pages_list %}
+</ul>
 
 <header class="hero-unit clearfix" id="overview">
   <div class="spinto-editable" id="headline-content">
