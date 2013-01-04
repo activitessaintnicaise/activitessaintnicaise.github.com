@@ -1,4 +1,17 @@
+<<<<<<< HEAD
 sitemap.xml
 _site
 .include_tree
 .spinto_data
+=======
+_site/*
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+>>>>>>> 09883b85ad52a75f470d52441e7148511ab09211
