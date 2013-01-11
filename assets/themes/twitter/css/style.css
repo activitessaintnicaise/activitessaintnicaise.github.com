@@ -36,6 +36,16 @@ html, body {
   border: 0;
 }
 
+/* Home ======================================================== */
+
+.logo {
+	margin-right:2em;
+}
+
+.home_gallery .thumbnail {
+	min-height:430px;
+	height:430px;
+}
 
 /* tag_box ======================================================== */
 
