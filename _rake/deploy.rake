@@ -119,5 +119,3 @@ def edit_config(option_name, value)
   config.sub!(regexp,'\1'+value+'\3')
   File.open("_config.yml", 'w') {|f| f.write(config)}
 end
-
-
