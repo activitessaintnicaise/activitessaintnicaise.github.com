@@ -43,8 +43,8 @@ html, body {
 }
 
 .home_gallery .thumbnail {
-	min-height:430px;
-	height:430px;
+	min-height:300px;
+
 }
 
 /* tag_box ======================================================== */

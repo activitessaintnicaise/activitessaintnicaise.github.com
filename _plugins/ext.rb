@@ -1,4 +1,5 @@
 require 'jekyll/localization'
+require 'jekyll/pagination'
 
 module Jekyll
   # restore standard paths
@@ -23,5 +24,3 @@ module Jekyll
 
   end
 end
-
-
