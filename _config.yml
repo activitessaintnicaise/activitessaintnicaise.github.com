@@ -12,10 +12,10 @@ pygments: true
 title: Actvité Saint-Nicaise
 tagline: Groupe de loisirs créatifs
 author:
-  name: activitessaintnicaise
+  name: activitesaintnicaise
   email: activitessaintnicaise@gmail.com
   github: activitessaintnicaise
-  twitter: activitessaintnicaise
+  twitter: activitesaintnicaise
   feedburner: activitessaintnicaise
 production_url: http://activitesaintnicaise.org
 JB:
