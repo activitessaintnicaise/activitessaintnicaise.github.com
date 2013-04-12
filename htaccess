@@ -2,6 +2,7 @@
 layout: none
 permalink: .htaccess
 ---
+Options +FollowSymlinks
 RewriteEngine On
 RewriteCond %{http_host} ^www.activitesaintnicaise.org [nc]
 RewriteRule ^(.*)$ http://activitesaintnicaise.org/$1 [r=301,nc]
