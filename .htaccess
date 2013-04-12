@@ -1,2 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
 RewriteCond %{HTTP_HOST} ^orgactivitesaintnicaise\.org
 RewriteRule ^ http://www.orgactivitesaintnicaise.org%{REQUEST_URI} [L,R=301]
