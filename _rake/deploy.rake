@@ -2,7 +2,7 @@
 require 'rake/clean'
 
 $site_url = "http://activitesaintnicaise.org/"
-$site_name = "marcesquerre"
+$site_name = "activitesaintnicaise"
 
 $remote = "git@spintoapp.com:activitessaintnicaise.git"
 
