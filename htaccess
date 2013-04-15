@@ -60,6 +60,9 @@ permalink: .htaccess
 # Proper MIME type for all files
 # ----------------------------------------------------------------------
 
+# html
+AddType 'text/html; charset=UTF-8' html
+
 # audio
 AddType audio/ogg                      oga ogg
 
