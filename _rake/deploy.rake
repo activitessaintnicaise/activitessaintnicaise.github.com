@@ -1,10 +1,10 @@
 
 require 'rake/clean'
 
-$site_url = "http://marcesquerre.spintoapp.com/"
+$site_url = "http://activitesaintnicaise.org/"
 $site_name = "marcesquerre"
 
-$remote = "git@spintoapp.com:marcesquerre.git"
+$remote = "git@spintoapp.com:activitessaintnicaise.git"
 
 desc 'Testing (draft - local server)'
 task :testing => [:draft, :run]
