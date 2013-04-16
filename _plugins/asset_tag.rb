@@ -3,7 +3,7 @@ require 'jammit'
 module Jekyll
   class AssetTag < Liquid::Tag
     CONFIG = YAML.load_file("_config.yml")
-    ENVR    = CONFIG['env'] 
+    ENVR   = CONFIG['env'] 
   
     def initialize(tag_name, name, kind, tokens)
       super tag_name, name, tokens
