@@ -1,0 +1,14 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    cssmin (1.0.3)
+    jammit (0.6.6)
+      cssmin (>= 1.0.3)
+      jsmin (>= 1.0.1)
+    jsmin (1.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jammit
