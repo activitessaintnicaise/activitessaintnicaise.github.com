@@ -1,3 +1,5 @@
+require 'jammit'
+
 class AssetTag < Liquid::Tag
   CONFIG = YAML.load_file("_config.yml")
   ENVR    = CONFIG['env'] 
