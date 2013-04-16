@@ -60,17 +60,6 @@ task :send do
   sh "rsync -avzh --progress --del _site/ #{$remote}"
 end
 
-namespace :juicer do
-  desc 'Merges stylesheets'
-    task :css => :"juicer:js" do
-      sh 'juicer merge --force _site/style/master.css'
-    end
-  desc 'Merges JavaScripts'
-    task :js do
-      sh  'juicer merge -i --force _site/js/master.js'
-    end
-end
-
 # original code (Google only) by Jose Diaz-Gonzalez (http://github.com/josegonzalez/josediazgonzalez.com)
 desc 'Notify Google, Yahoo and Bing of the new sitemap'
 task :ping_sitemap do
