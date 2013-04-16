@@ -4,7 +4,7 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc",".rbenv-version","Rakefile","Gemfile","Gemfile.lock","changelog.md","README.md", 'sass', 'watch.sh'] # files to exclude
 auto: true
 pygments: true
-env : developement
+env : production
 
 # Configuration
 title: Actvité Saint-Nicaise
