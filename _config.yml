@@ -4,15 +4,29 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc",".rbenv-version","Rakefile","changelog.md","README.md", 'sass', 'watch.sh'] # files to exclude
 auto: true
 pygments: true
+env : production
+
+# Configuration
 title: Actvité Saint-Nicaise
 tagline: Groupe de loisirs créatifs
 author:
-  name: activitesaintnicaise
+  name: Actvité Saint-Nicaise
   email: activitessaintnicaise@gmail.com
   github: activitessaintnicaise
   twitter: activitesaintnicaise
   feedburner: activitessaintnicaise
 production_url: http://activitesaintnicaise.org
+
+# Assets 
+javascript_compressor: closure
+
+stylesheets:
+  screen:
+    - themes/twitter/bootstrap/css/bootstrap.min.css
+    - themes/twitter/bootstrap/css/bootstrap-responsive.css
+    - themes/twitter/css/style.css
+
+# Jekyll bootstrap configuration
 JB:
   version: 0.2.13
   BASE_PATH: false

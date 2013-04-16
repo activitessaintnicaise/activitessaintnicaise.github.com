@@ -60,6 +60,16 @@ task :send do
   sh "rsync -avzh --progress --del _site/ #{$remote}"
 end
 
+namespace :juicer do
+  desc 'Merges stylesheets'
+    task :css => :"juicer:js" do
+      sh 'juicer merge --force _site/style/master.css'
+    end
+  desc 'Merges JavaScripts'
+    task :js do
+      sh  'juicer merge -i --force _site/js/master.js'
+    end
+end
 
 # original code (Google only) by Jose Diaz-Gonzalez (http://github.com/josegonzalez/josediazgonzalez.com)
 desc 'Notify Google, Yahoo and Bing of the new sitemap'
@@ -107,7 +117,8 @@ task :push => :check_git do
   remotes.each do |remote|
     sh "git add ."
     sh "git commit -a -m 'deploy'"
-    sh "git push #{remote} --all"
+    # sh "git push #{remote} --all"
+    sh "git push origin master"
   edit_config("env", "developement")
   end
 end
