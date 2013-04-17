@@ -51,9 +51,16 @@
       </div>
 
       <footer>
-        <p>&copy; {{ site.author.name }} 2012 
-          propulsé par <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll</a>
-        </p>
+				<p itemscope itemtype="http://schema.org/Organization">
+				  <span itemprop="name">{{ site.author.name }}</span>,
+				  <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				      <span itemprop="streetAddress">18, rue Poussin</span>
+				      <span itemprop="postalCode">F-76000</span>
+				      <span itemprop="addressLocality">Rouen, France</span>
+				  </span> - 
+				  <strong>Tel :</strong> <span itemprop="telephone">06 83 03 54 25</span>,
+			    <strong>E-mail :</strong> <span itemprop="email">activites.stnicaise@orange.fr</span>
+				</p>
       </footer>
 
     </div> <!-- /container -->
