@@ -3,10 +3,10 @@
 ## Présentation
 
 L'activité Saint Nicaise à Rouen propose des activités manuelles telles que :
-	* La réfection de fauteuils
-	* La restauration de tableaux
-	* La confection de Patchwork
-	* Le cannage de chaises
+* La réfection de fauteuils
+* La restauration de tableaux
+* La confection de Patchwork
+* Le cannage de chaises
 	
 La restauration de fauteuil représente l'activité la plus importante de l'association. Elle est encadrée par une professionnelle du métier de la tapisserie.
 Les cours se déroulent hors vacances scolaires (de septembre à juin) à raison de séances de 3 heures par semaine.
