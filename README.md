@@ -1,19 +1,19 @@
-# Site de l'association "Activité Saint Nicaise".
+# Site de l'association "Activités Saint Nicaise".
 
 ## Présentation
 
-L'activité Saint Nicaise à Rouen propose des activités manuelles telles que :
+Les activités Saint-Nicaise à Rouen propose des activités manuelles de loisirs créatifs telles que :
 * La réfection de fauteuils
 * La restauration de tableaux
 * La confection de Patchwork
 * Le cannage de chaises
 	
-La restauration de fauteuil représente l'activité la plus importante de l'association. Elle est encadrée par une professionnelle du métier de la tapisserie.
+La restauration de fauteuils représente l'activité la plus importante de l'association. Elle est encadrée par une professionnelle du métier de la tapisserie.
 Les cours se déroulent hors vacances scolaires (de septembre à juin) à raison de séances de 3 heures par semaine.
 
 ## Objectifs
 
-L'Activité Saint Nicaise n'a d'autres objectifs que de proposer des ateliers des restaurations diverses par la mise à disposition d'un lieu et du financement d'un animateur (pour les fauteuils).
+Les Activités Saint-Nicaise n'a d'autres objectifs que de proposer des ateliers des restaurations diverses par la mise à disposition d'un lieu et du financement d'un animateur (pour les fauteuils).
 
 Pour cela, elle cherche à équilibrer chaque séance avec un nombre de participants suffisants (10 personnes au moins).
 
