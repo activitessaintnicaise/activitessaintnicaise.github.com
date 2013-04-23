@@ -1,42 +1,37 @@
-# Jekyll-Bootstrap
+# Site de l'association "Activité Saint Nicaise".
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+## Présentation
 
-## Usage
+L'activité Saint Nicaise à Rouen propose des activités manuelles telles que :
+	* La réfection de fauteuils
+	* La restauration de tableaux
+	* La confection de Patchwork
+	* Le cannage de chaises
+	
+La restauration de fauteuil représente l'activité la plus importante de l'association. Elle est encadrée par une professionnelle du métier de la tapisserie.
+Les cours se déroulent hors vacances scolaires (de septembre à juin) à raison de séances de 3 heures par semaine.
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+## Objectifs
 
-## Version
+L'Activité Saint Nicaise n'a d'autres objectifs que de proposer des ateliers des restaurations diverses par la mise à disposition d'un lieu et du financement d'un animateur (pour les fauteuils).
 
-0.2.13 - stable and versioned using [semantic versioning](http://semver.org/).
+Pour cela, elle cherche à équilibrer chaque séance avec un nombre de participants suffisants (10 personnes au moins).
 
-## Contributing 
+## Projet de site
 
-This repository tracks 2 projects:
+Afin de communiquer auprès des membres et de trouver de nouveaux adhérents, il devient judicieux de mettre en ligne des informations sous format numérique.
 
-- **Jekyll-Bootstrap Framework.**  
-  The framework for which users should clone and build their blog on top of is available in the master branch.
-  
-  To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-  This is very important as it allows me to accept your pull request without having to publish a public version release.
-  
-  Small, atomic Features, bugs, etc.   
-  Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.   
-  Please rebase as often as possible when working.   
-  Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
-  
-  For Big Features or major API extensions/edits:   
-  This is the one case where I'll accept pull-requests based off the master branch.
-  This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-  Translation : it might take a bit longer so please be patient! (but sincerely thank you).
- 
-- **Jekyll-Bootstrap Documentation Website.**    
-  The documentation website at <http://jekyllbootstrap.com> is maintained in the gh-pages branch.
-  Please fork and contribute documentation additions to this branch only.
+Le caractère partagé de ce site sur Github pourrait permettre à d'autres associations de ce type de profiter de la structure, des fonctionnalités et méthodologies mis en place.
 
-The master and gh-pages branch do not share the same ancestry. Please treat them as completely separate git repositories!
+## Fonctionnalités envisagées
 
+1. Page de présentation de l'association : situation, contact, raison sociale…
+2. Partage des documents administratifs officiels : PV d'AG, bulletin d'inscription
+3. Présentation du planning et signification de modifications suite aux jours fériés
+4. Agenda des stages et autres événements exceptionnels
+5. Galerie photos des objets rénovés (utilisation d'un module before/after pour les tableaux)
+6. Liste de fournitures, carcasses, tissus, outils… à vendre
+7. Présentation de l'animatrice
+8. Page de magasins de fournitures 
+9. …
 
-## License
-
-[Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)

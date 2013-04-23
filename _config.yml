@@ -4,7 +4,7 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc",".rbenv-version","Rakefile","Gemfile","Gemfile.lock","changelog.md","README.md", 'sass', 'watch.sh'] # files to exclude
 auto: true
 pygments: true
-env : developement
+env : production
 
 # Configuration
 title: Actvité Saint-Nicaise
@@ -17,7 +17,16 @@ author:
   feedburner: activitessaintnicaise
 production_url: http://activitesaintnicaise.org
 
-# Assets 
+# Google analyitcs API
+gadash :
+  api_key : AIzaSyCxR58V7FGQhk8BbpmW53bi1dZo3-SHDMA
+  client_id : 
+    developement : 560184459893.apps.googleusercontent.com
+    production : 560184459893-1t0rttsek6s1dqlsinerg4u5g7ebdvu9.apps.googleusercontent.com
+  table_id : ga:68277935
+
+
+# Assets Pipeline
 javascript_compressor: closure
 
 stylesheets:
