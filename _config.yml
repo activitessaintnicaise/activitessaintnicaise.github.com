@@ -1,10 +1,11 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title
-exclude: [".rvmrc",".rbenv-version","Rakefile","Gemfile","Gemfile.lock","changelog.md","README.md", 'sass', 'watch.sh'] # files to exclude
+exclude: [".rvmrc",".rbenv-version","Rakefile","Gemfile","Gemfile.lock","changelog.md","README.md",'sass','watch.sh'] # files to exclude
 auto: true
 pygments: true
-env : developement
+production: false
+env : production
 
 # Configuration
 title: Actvité Saint-Nicaise
@@ -19,10 +20,10 @@ production_url: http://activitesaintnicaise.org
 
 # Google analyitcs API
 gadash :
-  api_key : AIzaSyB5RsHhI6tmuxPOh8g0jydCrz-NNnr3uPQ
+  api_key : AIzaSyCxR58V7FGQhk8BbpmW53bi1dZo3-SHDMA
   client_id : 
-    developement : 873987230620-7khfbhhoh9t2tk0oq9dif4bjtvttifqo.apps.googleusercontent.com
-    production : 873987230620.apps.googleusercontent.com
+    developement : 873987230620-73jsn9tivn0kepstu8jtl1cdjpt5avv3.apps.googleusercontent.com
+    production : 873987230620-22r92a7bf0jelikj0p09ptkc1pi3qst2.apps.googleusercontent.com
   table_id : ga:67617751
 
 
