@@ -103,12 +103,14 @@ task :push => :check_git do
   remotes = `git remote`.split
   puts "* Pushing code to all remote repositories (#{remotes.join(", ")})"
   edit_config("env",  "production")
+  puts "change environnement value"
   remotes.each do |remote|
     sh "git add ."
     sh "git commit -a -m 'deploy'"
     # sh "git push #{remote} --all"
     sh "git push origin master"
   edit_config("env", "developement")
+  puts "change environnement value"
   end
 end
 
