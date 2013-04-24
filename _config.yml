@@ -5,7 +5,7 @@ exclude: [".rvmrc",".rbenv-version","Rakefile","Gemfile","Gemfile.lock","changel
 auto: true
 pygments: true
 production: false
-env : developement
+env : production
 
 # Configuration
 title: Actvité Saint-Nicaise
@@ -16,7 +16,7 @@ author:
   github: activitessaintnicaise
   twitter: activitesaintnicaise
   feedburner: activitessaintnicaise
-production_url: activitesaintnicaise.org
+production_url: http://activitesaintnicaise.org
 
 # Google analyitcs API
 gadash :
