@@ -109,7 +109,7 @@ task :push => :check_git do
     sh "git commit -a -m 'deploy'"
     sh "git push #{remote} --all"
     #sh "git push origin master"
-  edit_config("env", "developement")
+  edit_config("env", "production")
   puts "change environnement value to developement"
   end
 end
