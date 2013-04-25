@@ -106,7 +106,7 @@ task :push => :check_git do
   puts "change environnement value to production"
   remotes.each do |remote|
     sh "git add ."
-    sh "git commit -a -m 'deploy'"
+    sh "git commit -a -m \"deploy\""
     sh "git push #{remote} --all"
     #sh "git push origin master"
   edit_config("env", "production")
