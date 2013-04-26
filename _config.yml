@@ -8,7 +8,7 @@ production: false
 env : production
 
 # Configuration
-title: Actvité Saint-Nicaise
+title: Activités Saint-Nicaise
 tagline: Groupe de loisirs créatifs
 author:
   name: Actvité Saint-Nicaise
