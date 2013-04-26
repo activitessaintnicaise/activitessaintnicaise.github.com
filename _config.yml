@@ -63,5 +63,6 @@ JB:
       site_id: 
     mixpanel:
       token: _MIXPANEL_TOKEN_
+  pingdom : 51764493e6e53dd01f000000
   sharing:
     provider: false

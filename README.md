@@ -29,7 +29,7 @@ Le caractère partagé de ce site sur Github pourrait permettre à d'autres asso
 2. Partage des documents administratifs officiels : PV d'AG, bulletin d'inscription
 3. Présentation du planning et signification de modifications suite aux jours fériés
 4. Agenda des stages et autres événements exceptionnels
-5. Galerie photos des objets rénovés (utilisation d'un module before/after pour les tableaux)
+5. Galerie photos des objets rénovés (utilisation d'un module before/after pour les tableaux) :: http://getpinry.com/
 6. Liste de fournitures, carcasses, tissus, outils… à vendre
 7. Présentation de l'animatrice
 8. Page de magasins de fournitures 
