@@ -36,6 +36,16 @@ html, body {
   border: 0;
 }
 
+.column {
+	margin: .5em 0;
+	-moz-column-count:4; /* Firefox */
+	-webkit-column-count:4; /* Safari and Chrome */
+	column-count:6;
+	-moz-column-gap:10px; /* Firefox */
+	-webkit-column-gap:10px; /* Safari and Chrome */
+	column-gap:10px;
+}
+
 /* Home ======================================================== */
 
 .logo {
