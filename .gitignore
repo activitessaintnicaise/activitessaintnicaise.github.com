@@ -1,0 +1,13 @@
+
+_site
+.include_tree
+.spinto_data
+node_modules
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc

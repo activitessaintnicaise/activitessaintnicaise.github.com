@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="http://unslider.com/unslider.js"></script>
+
+  <script>
+    $(function() {
+      $('.banner').unslider({
+          speed: 500,               //  The speed to animate each slide (in milliseconds)
+          delay: 3000,              //  The delay between slide animations (in milliseconds)
+          complete: function() {},  //  A function that gets called after every slide animation
+          keys: true,               //  Enable keyboard (left, right) arrow shortcuts
+          dots: true,               //  Display dot navigation
+          fluid: false              //  Support responsive design. May break non-responsive designs
+        });             //  Support responsive design. May break non-responsive designs
+
+      var unslider = $('.banner').unslider();
+
+      $('.unslider-arrow').click(function() {
+        var fn = this.className.split(' ')[1];
+        
+        //  Either do unslider.data('unslider').next() or .prev() depending on the className
+        unslider.data('unslider')[fn]();
+      });
+    });
+  </script>
+  <style>
+    .banner { position: relative; overflow: auto; }
+    .banner ul { margin: 0; padding: 0;list-style: none; }
+    .banner ul li { float: left; }
+    .banner img {width: 100%;}
+  </style>
+  <head>
+    <body>
+
+      <!-- Any DOM: ul/ol > li, div, section, etc... -->
+      <div class="banner">
+        <ul class="slideme"> <!-- Class "slideme" is mandatatory! -->
+          <li><img src="images/DSC00043.JPG" alt="" /></li>
+          <li><img src="images/DSC00044.JPG" alt="" /></li>
+          <li><img src="images/DSC00045.JPG" alt="" /></li>
+          <li><img src="images/DSC00050.JPG" alt="" /></li>
+          <li><img src="images/DSC00051.JPG" alt="" /></li>
+          <li><img src="images/DSC00116.JPG" alt="" /></li>
+          <li><img src="images/DSC00124.JPG" alt="" /></li>
+          <li><img src="images/DSC00130.JPG" alt="" /></li>
+          <li><img src="images/DSC00132.JPG" alt="" /></li>
+          <li><img src="images/DSC00140.JPG" alt="" /></li>
+          <li><img src="images/DSC00148.JPG" alt="" /></li>
+          <li><img src="images/DSC00151.JPG" alt="" /></li>
+          <li><img src="images/DSC00152.JPG" alt="" /></li>
+          <li><img src="images/DSC00204.JPG" alt="" /></li>
+          <li><img src="images/DSC00270.JPG" alt="" /></li>
+          <li><img src="images/DSC00275.JPG" alt="" /></li>
+          <li><img src="images/WP_20130305_001.jpg" alt="" /></li>
+          <li><img src="images/WP_20130305_002.jpg" alt="" /></li>
+        </ul>
+        <!-- The HTML -->
+        <a href="#" class="unslider-arrow prev">Previous slide</a>
+        <a href="#" class="unslider-arrow next">Next slide</a>
+      </div>
+    </body>
+    </html>
