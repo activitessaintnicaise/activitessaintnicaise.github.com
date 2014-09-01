@@ -37,7 +37,7 @@ html, body {
 }
 
 .column {
-	margin: .5em 0;
+	margin: .5em 0 .5em 15px;
 	-moz-column-count:4; /* Firefox */
 	-webkit-column-count:4; /* Safari and Chrome */
 	column-count:6;

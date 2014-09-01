@@ -1,0 +1,15 @@
+<div id="back_to_camera">
+  <a href="/">Retour à l'accueil</a>
+  {% for node in site.pages %}
+  {% if node.title != null %}
+  {% if node.navigationslide == true %}
+  {% if page.url == node.url %}
+  <a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a>
+  {% else %}
+  <a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a>
+  {% endif %}
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+</div><!-- #back_to_camera -->
+

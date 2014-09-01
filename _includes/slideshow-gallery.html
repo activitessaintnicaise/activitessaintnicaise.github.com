@@ -1,0 +1,7 @@
+<div class="fluid_container">
+  <div class="camera_wrap camera_emboss" id="camera_wrap">
+    {% for i in (1..{page.slidenumber}) %}
+    <div data-src="/images/{{page.name}}/{{page.name}}_asn_{{ i }}.jpg"></div>
+    {% endfor %}
+  </div>
+</div><!-- .fluid_container -->
