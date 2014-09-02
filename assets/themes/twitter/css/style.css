@@ -64,9 +64,22 @@ html, body {
 	margin-right:2em;
 }
 
-.home_gallery .thumbnail {
-	min-height:300px;
+.highlight {
+  line-height: 1.5;
+  font-size: 1.2em;
+}
 
+.home_gallery .thumbnail {
+	min-height: 365px;
+}
+
+.home_gallery .span3 {
+  width: 172px;
+}
+
+.home_gallery h3 {
+  margin-bottom: 8px; 
+  line-height: 20px;
 }
 
 /* tag_box ======================================================== */
