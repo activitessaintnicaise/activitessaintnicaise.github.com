@@ -2,9 +2,8 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc",".rbenv-version","Rakefile","Gemfile","Gemfile.lock","changelog.md","README.md",'sass','watch.sh'] # files to exclude
-auto: true
 paginate: 1
-pygments: true
+highlighter: true
 production: false
 env : production
 
