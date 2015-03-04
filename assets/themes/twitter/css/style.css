@@ -75,11 +75,7 @@ h1 {
   min-height: 365px;
 }
 
-.home_gallery .span3 {
-  width: 172px;
-}
-
-.home_gallery h3 {
+.home_gallery h2 {
   margin-bottom: 8px;
   line-height: 20px;
 }

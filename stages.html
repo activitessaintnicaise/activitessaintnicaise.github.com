@@ -1,0 +1,17 @@
+---
+layout: page
+title: Stages
+group: none
+---
+{% include JB/setup %}
+
+{% for post in site.posts %}
+	{% if post.category == 'stages' %}
+		<article>
+			<strong>{{ post.periode }} / {{ post.lieu }} <br> Organisé par : {{ post.contact }}</strong>
+      <br>
+			<h1>{{ post.title }}</h1>
+			{{ post.content }}
+		</article>
+	{% endif %}
+{% endfor %}

@@ -1,0 +1,199 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node',
+1 verbose cli   '/Users/bk/.node/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'jit-grunt',
+1 verbose cli   '--save-dev' ]
+2 info using npm@2.0.0
+3 info using node@v0.10.28
+4 verbose node symlink /usr/local/bin/node
+5 warn package.json activitessaintnicaise@0.0.0 No repository field.
+6 verbose readDependencies using package.json deps
+7 verbose cache add [ 'jit-grunt', null ]
+8 verbose cache add spec="jit-grunt" args=["jit-grunt",null]
+9 verbose parsed spec { raw: 'jit-grunt',
+9 verbose parsed spec   scope: null,
+9 verbose parsed spec   name: 'jit-grunt',
+9 verbose parsed spec   rawSpec: '',
+9 verbose parsed spec   spec: '*',
+9 verbose parsed spec   type: 'range' }
+10 verbose parsed spec { raw: 'jit-grunt',
+10 verbose parsed spec   scope: null,
+10 verbose parsed spec   name: 'jit-grunt',
+10 verbose parsed spec   rawSpec: '',
+10 verbose parsed spec   spec: '*',
+10 verbose parsed spec   type: 'range' }
+11 verbose addNamed [ 'jit-grunt', '*' ]
+12 verbose addNamed [ null, '*' ]
+13 silly lockFile de5d89bd-jit-grunt jit-grunt@*
+14 verbose lock jit-grunt@* /Users/bk/.npm/de5d89bd-jit-grunt.lock
+15 silly addNameRange { name: 'jit-grunt', range: '*', hasData: false }
+16 verbose mapToRegistry name jit-grunt
+17 verbose mapToRegistry uri https://registry.npmjs.org/jit-grunt
+18 verbose request on initialization, where is /jit-grunt
+19 verbose request after pass 1, where is /jit-grunt
+20 verbose request url raw /jit-grunt
+21 verbose request resolving registry [ 'https://registry.npmjs.org/', './jit-grunt' ]
+22 verbose request after pass 2, where is https://registry.npmjs.org/jit-grunt
+23 verbose request no auth needed
+24 info attempt registry request try #1 at 10:12:35
+25 verbose request id 3f55d13111dcfe22
+26 verbose etag "9OJX8HKPU9ISAOY7O0SZTNHL4"
+27 http request GET https://registry.npmjs.org/jit-grunt
+28 http 304 https://registry.npmjs.org/jit-grunt
+29 silly registry.get cb [ 304,
+29 silly registry.get   { date: 'Wed, 04 Mar 2015 09:12:36 GMT',
+29 silly registry.get     server: 'Apache',
+29 silly registry.get     via: '1.1 varnish',
+29 silly registry.get     'last-modified': 'Wed, 04 Mar 2015 09:12:36 GMT',
+29 silly registry.get     'cache-control': 'max-age=60',
+29 silly registry.get     etag: '"9OJX8HKPU9ISAOY7O0SZTNHL4"',
+29 silly registry.get     age: '27',
+29 silly registry.get     'x-served-by': 'cache-lcy1123-LCY',
+29 silly registry.get     'x-cache': 'HIT',
+29 silly registry.get     'x-cache-hits': '1',
+29 silly registry.get     'x-timer': 'S1425460356.529538,VS0,VE0',
+29 silly registry.get     vary: 'Accept',
+29 silly registry.get     'content-length': '0',
+29 silly registry.get     'keep-alive': 'timeout=10, max=50',
+29 silly registry.get     connection: 'Keep-Alive' } ]
+30 verbose etag https://registry.npmjs.org/jit-grunt from cache
+31 silly addNameRange number 2 { name: 'jit-grunt', range: '*', hasData: true }
+32 silly addNameRange versions [ 'jit-grunt',
+32 silly addNameRange   [ '0.0.1',
+32 silly addNameRange     '0.1.0',
+32 silly addNameRange     '0.1.1',
+32 silly addNameRange     '0.1.2',
+32 silly addNameRange     '0.2.0',
+32 silly addNameRange     '0.2.1',
+32 silly addNameRange     '0.2.2',
+32 silly addNameRange     '0.2.3',
+32 silly addNameRange     '0.3.0',
+32 silly addNameRange     '0.3.1',
+32 silly addNameRange     '0.3.2',
+32 silly addNameRange     '0.4.0',
+32 silly addNameRange     '0.4.1',
+32 silly addNameRange     '0.4.2',
+32 silly addNameRange     '0.5.0',
+32 silly addNameRange     '0.6.0',
+32 silly addNameRange     '0.7.0',
+32 silly addNameRange     '0.7.1',
+32 silly addNameRange     '0.8.0',
+32 silly addNameRange     '0.9.0',
+32 silly addNameRange     '0.9.1' ] ]
+33 verbose addNamed [ 'jit-grunt', '0.9.1' ]
+34 verbose addNamed [ '0.9.1', '0.9.1' ]
+35 silly lockFile 24588255-jit-grunt-0-9-1 jit-grunt@0.9.1
+36 verbose lock jit-grunt@0.9.1 /Users/bk/.npm/24588255-jit-grunt-0-9-1.lock
+37 silly lockFile 24588255-jit-grunt-0-9-1 jit-grunt@0.9.1
+38 silly lockFile 24588255-jit-grunt-0-9-1 jit-grunt@0.9.1
+39 silly lockFile de5d89bd-jit-grunt jit-grunt@*
+40 silly lockFile de5d89bd-jit-grunt jit-grunt@*
+41 silly resolved [ { name: 'jit-grunt',
+41 silly resolved     version: '0.9.1',
+41 silly resolved     description: 'JIT plugin loader for Grunt.',
+41 silly resolved     keywords: [ 'grunt', 'gruntplugin', 'jit', 'loader' ],
+41 silly resolved     homepage: 'https://github.com/shootaroo/jit-grunt',
+41 silly resolved     bugs: { url: 'https://github.com/shootaroo/jit-grunt/issues' },
+41 silly resolved     license: 'MIT',
+41 silly resolved     author: { name: 'shootaroo', email: 'shotaro.tsubouchi@gmail.com' },
+41 silly resolved     files: [ 'lib', 'jit-grunt.js' ],
+41 silly resolved     directories: { test: 'test/' },
+41 silly resolved     main: 'jit-grunt',
+41 silly resolved     repository: { type: 'git', url: 'git://github.com/shootaroo/jit-grunt.git' },
+41 silly resolved     scripts: { test: 'grunt', precommit: 'npm test', prepush: 'npm test' },
+41 silly resolved     devDependencies:
+41 silly resolved      { grunt: '~0.4.0',
+41 silly resolved        'grunt-contrib-jshint': '~0.10.0',
+41 silly resolved        'grunt-jscs': '~0.7.0',
+41 silly resolved        'grunt-mocha-test': '~0.12.0',
+41 silly resolved        husky: '~0.6.0',
+41 silly resolved        'intelli-espower-loader': '~0.4.0',
+41 silly resolved        'power-assert': '~0.9.0',
+41 silly resolved        sinon: '~1.10.0',
+41 silly resolved        'time-grunt': '~1.0.0' },
+41 silly resolved     peerDependencies: { grunt: '~0.4.0' },
+41 silly resolved     engines: { node: '>=0.8.0' },
+41 silly resolved     gitHead: '0bc759bc19960f539fe95d704e16d86913f6df28',
+41 silly resolved     _id: 'jit-grunt@0.9.1',
+41 silly resolved     _shasum: 'f66293df57fe373eec03d6954d19661663406193',
+41 silly resolved     _from: 'jit-grunt@*',
+41 silly resolved     _npmVersion: '1.4.21',
+41 silly resolved     _npmUser: { name: 'shootaroo', email: 'shotaro.tsubouchi@gmail.com' },
+41 silly resolved     maintainers: [ [Object] ],
+41 silly resolved     dist:
+41 silly resolved      { shasum: 'f66293df57fe373eec03d6954d19661663406193',
+41 silly resolved        tarball: 'http://registry.npmjs.org/jit-grunt/-/jit-grunt-0.9.1.tgz' },
+41 silly resolved     _resolved: 'https://registry.npmjs.org/jit-grunt/-/jit-grunt-0.9.1.tgz',
+41 silly resolved     readme: 'ERROR: No README data found!' } ]
+42 info install jit-grunt@0.9.1 into /Users/bk/sites/activitessaintnicaise
+43 info installOne jit-grunt@0.9.1
+44 verbose node_modules/jit-grunt unbuild
+45 info preuninstall jit-grunt@0.9.1
+46 info uninstall jit-grunt@0.9.1
+47 verbose true,/Users/bk/sites/activitessaintnicaise/node_modules,/Users/bk/sites/activitessaintnicaise/node_modules unbuild jit-grunt@0.9.1
+48 info postuninstall jit-grunt@0.9.1
+49 verbose gentlyRm vacuuming /Users/bk/sites/activitessaintnicaise/node_modules/jit-grunt
+50 silly gentlyRm purging /Users/bk/sites/activitessaintnicaise/node_modules/jit-grunt
+51 silly gentlyRm quitting because other entries in /Users/bk/sites/activitessaintnicaise/node_modules
+52 verbose tar unpack /Users/bk/.npm/jit-grunt/0.9.1/package.tgz
+53 silly lockFile b7279d4e-ntnicaise-node-modules-jit-grunt tar:///Users/bk/sites/activitessaintnicaise/node_modules/jit-grunt
+54 verbose lock tar:///Users/bk/sites/activitessaintnicaise/node_modules/jit-grunt /Users/bk/.npm/b7279d4e-ntnicaise-node-modules-jit-grunt.lock
+55 silly lockFile 813b40d5--npm-jit-grunt-0-9-1-package-tgz tar:///Users/bk/.npm/jit-grunt/0.9.1/package.tgz
+56 verbose lock tar:///Users/bk/.npm/jit-grunt/0.9.1/package.tgz /Users/bk/.npm/813b40d5--npm-jit-grunt-0-9-1-package-tgz.lock
+57 verbose gentlyRm vacuuming /Users/bk/sites/activitessaintnicaise/node_modules/jit-grunt
+58 silly gunzTarPerm modes [ '755', '644' ]
+59 silly gunzTarPerm extractEntry package.json
+60 silly gunzTarPerm extractEntry README.md
+61 silly gunzTarPerm extractEntry jit-grunt.js
+62 silly gunzTarPerm extractEntry lib/jit-grunt.js
+63 silly lockFile b7279d4e-ntnicaise-node-modules-jit-grunt tar:///Users/bk/sites/activitessaintnicaise/node_modules/jit-grunt
+64 silly lockFile b7279d4e-ntnicaise-node-modules-jit-grunt tar:///Users/bk/sites/activitessaintnicaise/node_modules/jit-grunt
+65 silly lockFile 813b40d5--npm-jit-grunt-0-9-1-package-tgz tar:///Users/bk/.npm/jit-grunt/0.9.1/package.tgz
+66 silly lockFile 813b40d5--npm-jit-grunt-0-9-1-package-tgz tar:///Users/bk/.npm/jit-grunt/0.9.1/package.tgz
+67 info preinstall jit-grunt@0.9.1
+68 verbose readDependencies using package.json deps
+69 verbose readDependencies using package.json deps
+70 silly resolved []
+71 verbose about to build /Users/bk/sites/activitessaintnicaise/node_modules/jit-grunt
+72 info build /Users/bk/sites/activitessaintnicaise/node_modules/jit-grunt
+73 verbose linkStuff [ false,
+73 verbose linkStuff   false,
+73 verbose linkStuff   false,
+73 verbose linkStuff   '/Users/bk/sites/activitessaintnicaise/node_modules' ]
+74 info linkStuff jit-grunt@0.9.1
+75 verbose linkBins jit-grunt@0.9.1
+76 verbose linkMans jit-grunt@0.9.1
+77 verbose rebuildBundles jit-grunt@0.9.1
+78 info install jit-grunt@0.9.1
+79 info postinstall jit-grunt@0.9.1
+80 verbose stack Error: The package grunt does not satisfy its siblings' peerDependencies requirements!
+80 verbose stack     at /Users/bk/.node/lib/node_modules/npm/lib/install.js:98:32
+80 verbose stack     at /Users/bk/.node/lib/node_modules/npm/lib/install.js:202:5
+80 verbose stack     at /Users/bk/.node/lib/node_modules/npm/node_modules/read-installed/read-installed.js:138:5
+80 verbose stack     at /Users/bk/.node/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+80 verbose stack     at cb (/Users/bk/.node/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+80 verbose stack     at /Users/bk/.node/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+80 verbose stack     at cb (/Users/bk/.node/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+80 verbose stack     at /Users/bk/.node/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+80 verbose stack     at cb (/Users/bk/.node/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+80 verbose stack     at /Users/bk/.node/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+81 verbose cwd /Users/bk/sites/activitessaintnicaise
+82 error Darwin 12.6.0
+83 error argv "node" "/Users/bk/.node/bin/npm" "install" "jit-grunt" "--save-dev"
+84 error node v0.10.28
+85 error npm  v2.0.0
+86 error code EPEERINVALID
+87 error peerinvalid The package grunt does not satisfy its siblings' peerDependencies requirements!
+87 error peerinvalid Peer grunt-contrib-concat@0.3.0 wants grunt@~0.4.0
+87 error peerinvalid Peer grunt-processhtml@0.3.0 wants grunt@0.4.x
+87 error peerinvalid Peer jit-grunt@0.9.1 wants grunt@~0.4.0
+87 error peerinvalid Peer grunt-jekyll@0.4.1 wants grunt@~0.4.1
+87 error peerinvalid Peer grunt-contrib-watch@0.6.0 wants grunt@~0.4.0
+87 error peerinvalid Peer grunt-contrib-uglify@0.4.0 wants grunt@^0.4.0
+87 error peerinvalid Peer grunt-imageoptim@1.4.1 wants grunt@~0.4.1
+87 error peerinvalid Peer grunt-uncss@0.2.2 wants grunt@~0.4.1
+87 error peerinvalid Peer grunt-yslow@0.0.3 wants grunt@~0.4.0
+87 error peerinvalid Peer grunt-phantomas@0.5.2 wants grunt@~0.4.1
+87 error peerinvalid Peer grunt-accessibility@2.2.0 wants grunt@~0.4.5
+88 verbose exit [ 1, true ]
