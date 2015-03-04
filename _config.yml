@@ -44,6 +44,8 @@ prose:
     - CNAME
     - robots.txt
     - sitemap.txt
+    - atom.xml
+    - _config.xml
     - index.html
     - board.html
     - changelog.md
