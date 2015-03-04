@@ -76,8 +76,13 @@ h1 {
 }
 
 .home_gallery h2 {
-  margin-bottom: 8px;
+  margin: 8px 0;
   line-height: 20px;
+  font-size: 20px;
+}
+
+.home_gallery img {
+  width: 100%;
 }
 
 /* tag_box ======================================================== */
