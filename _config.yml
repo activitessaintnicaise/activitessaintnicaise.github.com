@@ -36,6 +36,50 @@ stylesheets:
     - themes/twitter/bootstrap/css/bootstrap-responsive.css
     - themes/twitter/css/style.css
 
+prose:
+  siteurl: "http://iesfhautenormandie.fr/"
+  relativeLinks: ''
+  media: 'media'
+  ignore:
+    - CNAME
+    - robots.txt
+    - sitemap.txt
+    - index.html
+    - board.html
+    - changelog.md
+    - 404.html
+    - .gitignore
+    - .gitmodules
+    - .htaccess
+    - Gemfile
+    - favicon.ico
+    - gruntfile.js
+    - package.json
+    - npm-debug.log
+    - Rakefile
+    - /_layouts
+    - /_includes
+    - /_plugins
+    - /_site
+    - /_rake
+    - /assets
+    - /galerie
+    - /images
+    - /phantomas
+    - /node_modules
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Ajouter un title"
+          placeholder: "titre de la page"
+
+
 # Jekyll bootstrap configuration
 JB:
   version: 0.2.13
