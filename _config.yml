@@ -48,6 +48,7 @@ prose:
     - _config.xml
     - index.html
     - board.html
+    - gallery.html
     - changelog.md
     - 404.html
     - .gitignore
@@ -59,6 +60,12 @@ prose:
     - package.json
     - npm-debug.log
     - Rakefile
+    - slide-cannage.html
+    - slide-patchwork.html
+    - slide-refection-fauteuil.html
+    - slide-restauration-tableaux.html
+    - slide-tapisserie-aiguille.html
+    - stages.html
     - /_layouts
     - /_includes
     - /_plugins
