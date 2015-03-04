@@ -45,7 +45,7 @@ prose:
     - robots.txt
     - sitemap.txt
     - atom.xml
-    - _config.xml
+    - _config.yml
     - index.html
     - board.html
     - gallery.html
