@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 /* Override some defaults */
-html, body {
+html,
+body {
   background-color: #eee;
 }
 .navbar {
@@ -13,17 +13,19 @@ html, body {
   text-align: center; /* center align it with the container */
 }
 
+/* Typography ======================================================== */
+
+h1 {
+  margin: .2em 0 .5em;
+}
+
 /* The white background content wrapper */
 .content {
   background-color: #fff;
   padding: 20px;
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
-  -webkit-border-radius: 0 0 6px 6px;
-     -moz-border-radius: 0 0 6px 6px;
-          border-radius: 0 0 6px 6px;
-  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+  border-radius: 0 0 6px 6px;
+  box-shadow: 0 1px 2px rgba(0,0,0,.15);
 }
 
 /* Page header tweaks */
@@ -38,31 +40,30 @@ html, body {
 }
 
 .column {
-	margin: .5em 0 .5em 15px;
-	-moz-column-count:4; /* Firefox */
-	-webkit-column-count:4; /* Safari and Chrome */
-	column-count:6;
-	-moz-column-gap:10px; /* Firefox */
-	-webkit-column-gap:10px; /* Safari and Chrome */
-	column-gap:10px;
+  margin: .5em 0 .5em 15px;
+     -moz-column-count: 4; /* Firefox */
+  -webkit-column-count: 4; /* Safari and Chrome */
+          column-count: 6;
+     -moz-column-gap: 10px; /* Firefox */
+  -webkit-column-gap: 10px; /* Safari and Chrome */
+          column-gap: 10px;
 }
 
 .gallery img {
-	border-radius:5px;
+  border-radius: 5px;
 }
 
 .gallery img:hover {
-	-webkit-transform :scale(1.8);
-		 -moz-transform :scale(1.8);
-			 		transform :scale(1.8);
-	box-shadow:0 0 20px rgba(0,0,0,.8);
-	border: 1px solid #555;
+  -webkit-transform: scale(1.8);
+          transform: scale(1.8);
+  box-shadow: 0 0 20px rgba(0,0,0,.8);
+  border: 1px solid #555;
 }
 
 /* Home ======================================================== */
 
 .logo {
-	margin-right:2em;
+  margin-right: 2em;
 }
 
 .highlight {
@@ -71,7 +72,7 @@ html, body {
 }
 
 .home_gallery .thumbnail {
-	min-height: 365px;
+  min-height: 365px;
 }
 
 .home_gallery .span3 {
@@ -79,145 +80,38 @@ html, body {
 }
 
 .home_gallery h3 {
-  margin-bottom: 8px; 
+  margin-bottom: 8px;
   line-height: 20px;
 }
 
 /* tag_box ======================================================== */
 
 .tag_box {
-	list-style:none;
-	margin:0;
-	padding:5px 0 ;
-	overflow:hidden;
+  list-style: none;
+  margin: 0;
+  padding: 5px 0 ;
+  overflow: hidden;
 }
 .tag_box li {
-	line-height:28px;
+  line-height: 28px;
 }
 .tag_box.inline li {
-	float:left;
+  float: left;
 }
 .tag_box a {
-	padding: 3px 6px;
-	margin: 2px;
-	background: #eee;
-	color:#005F6B;
-	border-radius: 3px;
-	text-decoration:none;
+  padding: 3px 6px;
+  margin: 2px;
+  background: #eee;
+  color: #005f6b;
+  border-radius: 3px;
+  text-decoration: none;
 }
-.tag_box a span{
-	vertical-align:super;
-	font-size:0.8em;
-}
-.tag_box a.active {
-	background:#57A957;
-	border:1px solid #4C964D;
-	color:#FFF;
-}
-	
-||||||| merged common ancestors
-=======
-/* Override some defaults */
-html, body {
-  background-color: #eee;
-}
-.navbar {
-  margin-bottom: 0;
-}
-.container > footer {
-  margin-top: 20px;
-}
-.container > footer p {
-  text-align: center; /* center align it with the container */
-}
-
-/* The white background content wrapper */
-.content {
-  background-color: #fff;
-  padding: 20px;
-  margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
-  -webkit-border-radius: 0 0 6px 6px;
-     -moz-border-radius: 0 0 6px 6px;
-          border-radius: 0 0 6px 6px;
-  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-          box-shadow: 0 1px 2px rgba(0,0,0,.15);
-}
-
-/* Page header tweaks */
-.page-header {
-  background-color: #f5f5f5;
-  padding: 20px 20px 10px;
-  margin: -20px -20px 20px;
-}
-
-.topbar .btn {
-  border: 0;
-}
-
-.column {
-	margin: .5em 0;
-	-moz-column-count:4; /* Firefox */
-	-webkit-column-count:4; /* Safari and Chrome */
-	column-count:6;
-	-moz-column-gap:10px; /* Firefox */
-	-webkit-column-gap:10px; /* Safari and Chrome */
-	column-gap:10px;
-}
-
-.gallery img {
-	border-radius:5px;
-}
-
-.gallery img:hover {
-	-webkit-transform :scale(1.8);
-		 -moz-transform :scale(1.8);
-			 		transform :scale(1.8);
-	box-shadow:0 0 20px rgba(0,0,0,.8);
-	border: 1px solid #555;
-}
-
-/* Home ======================================================== */
-
-.logo {
-	margin-right:2em;
-}
-
-.home_gallery .thumbnail {
-	min-height:300px;
-
-}
-
-/* tag_box ======================================================== */
-
-.tag_box {
-	list-style:none;
-	margin:0;
-	padding:5px 0 ;
-	overflow:hidden;
-}
-.tag_box li {
-	line-height:28px;
-}
-.tag_box.inline li {
-	float:left;
-}
-.tag_box a {
-	padding: 3px 6px;
-	margin: 2px;
-	background: #eee;
-	color:#005F6B;
-	border-radius: 3px;
-	text-decoration:none;
-}
-.tag_box a span{
-	vertical-align:super;
-	font-size:0.8em;
+.tag_box a span {
+  vertical-align: super;
+  font-size: .8em;
 }
 .tag_box a.active {
-	background:#57A957;
-	border:1px solid #4C964D;
-	color:#FFF;
+  background: #57a957;
+  border: 1px solid #4c964d;
+  color: #fff;
 }
-	
->>>>>>> 4e52aa6ffda0dedf4851e4bf3774727ce7955526

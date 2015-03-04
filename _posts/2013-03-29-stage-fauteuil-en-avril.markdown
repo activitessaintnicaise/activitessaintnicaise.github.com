@@ -2,6 +2,7 @@
 title: Stage fauteuil en avril
 published: true
 layout: post
+category: actualites
 ---
 
 Un stage de tapisserie de fauteuils ancien sera proposé fin avril pendant les vacances scolaire. Vous pourrez continuer la réfection de votre fauteuil en cours ou en profiter pour vous lancer dans la remise en forme d'une nouvelle œuvre que ce soit une bergère, marquise, cabriolet ou autre fauteuil club. 

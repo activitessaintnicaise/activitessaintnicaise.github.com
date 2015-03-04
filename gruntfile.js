@@ -1,4 +1,7 @@
 module.exports = function(grunt) {
+  "use strict";
+  require('time-grunt')(grunt);
+  require('jit-grunt')(grunt);
 
   // Project configuration.
   grunt.initConfig({
@@ -17,6 +20,14 @@ module.exports = function(grunt) {
             src: 'http://activitesaintnicaise.org',
          }
         ]
+      }
+    },
+    accessibility: {
+      options : {
+        accessibilityLevel: 'WCAG2A'
+      },
+      test : {
+        src: ['localhost:4000']
       }
     },
     imageoptim: {
@@ -66,6 +77,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-phantomas');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-jekyll');
+  grunt.loadNpmTasks('grunt-accessibility');
 
   // Default task(s).
   grunt.registerTask('default', ['yslow','imageoptim','phantomas','watch']);
