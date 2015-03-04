@@ -49,6 +49,7 @@ prose:
     - index.html
     - board.html
     - gallery.html
+    - actualites.html
     - changelog.md
     - 404.html
     - .gitignore
