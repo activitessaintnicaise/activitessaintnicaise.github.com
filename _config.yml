@@ -95,7 +95,7 @@ JB:
   version: 0.2.13
   BASE_PATH: false
   ASSET_PATH: false
-  archive_path: /archive.html
+  archive_path: /actualites.html
   comments:
     provider: false
     disqus:
