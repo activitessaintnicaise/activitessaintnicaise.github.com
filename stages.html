@@ -1,16 +1,15 @@
 ---
 layout: page
 title: Stages
-group: none
+group: navigation
 ---
 {% include JB/setup %}
 
 {% for post in site.posts %}
 	{% if post.category == 'stages' %}
-		<article>
-			<strong>{{ post.periode }} / {{ post.lieu }} <br> Organisé par : {{ post.contact }}</strong>
-      <br>
-			<h1>{{ post.title }}</h1>
+		<article class="stage-list">
+			<h1>{{ post.periode }} - {{ post.title }}</h1>
+      <p><strong>{{ post.lieu }} <br> Organisé par : {{ post.contact }}</strong></p>
 			{{ post.content }}
 		</article>
 	{% endif %}

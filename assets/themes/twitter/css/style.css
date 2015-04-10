@@ -87,8 +87,24 @@ h1 {
 
 @media (min-width: 600px) {
   .home_gallery .span3 {
-  width: 17.728%;
+    width: 17.728%;
+  }
 }
+
+/* stage-list ===================================================== */
+
+.stage-list {
+  margin-bottom: 1rem;
+  padding: 1rem 0 0.5rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.stage-list h1 {
+  margin: 0;
+}
+
+.stage-list  {
+  margin: 0;
 }
 
 /* tag_box ======================================================== */

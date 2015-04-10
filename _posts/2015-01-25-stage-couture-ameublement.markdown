@@ -2,7 +2,7 @@
 title: Couture d'ameublement
 layout: post
 category: stages
-periode: Du 3 au 6 mars
+periode: Du 3 au 6 mars 2015
 lieu: Maison Saint-Nicaise - Rouen
 contact: Vanessa Laplanche
 ---
