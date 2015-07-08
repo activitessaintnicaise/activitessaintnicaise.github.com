@@ -37,7 +37,7 @@ stylesheets:
     - themes/twitter/css/style.css
 
 prose:
-  siteurl: "http://iesfhautenormandie.fr/"
+  siteurl: "http://activitesaintnicaise.org"
   relativeLinks: ''
   media: 'media'
   ignore:
@@ -101,13 +101,13 @@ JB:
     disqus:
       short_name: 
     livefyre:
-      site_id: 123
+      site_id: 
     intensedebate:
       account: 123abc
     facebook:
-      appid: 123
-      num_posts: 5
-      width: 580
+      appid: 
+      num_posts: 
+      width: 
       colorscheme: light
   analytics:
     provider: google
