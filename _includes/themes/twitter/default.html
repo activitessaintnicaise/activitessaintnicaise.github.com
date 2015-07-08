@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="fr" manifest="manifest.appcache">
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
@@ -71,5 +71,14 @@
     </div> <!-- /container -->
 
     {% include JB/analytics %}
+    <script>
+    function onUpdateReady() {
+  alert('found new version!');
+}
+window.applicationCache.addEventListener('updateready', onUpdateReady);
+if(window.applicationCache.status === window.applicationCache.UPDATEREADY) {
+  onUpdateReady();
+}
+</script>
   </body>
 </html>
