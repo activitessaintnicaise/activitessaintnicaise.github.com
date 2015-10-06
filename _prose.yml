@@ -1,0 +1,208 @@
+permalink: pretty
+markdown: rdiscount
+prose:
+  rooturl: ''
+  siteurl: 'http://bertrandkeller.github.io/Labex'
+  relativeLinks: 'http://bertrandkeller.github.io/Labex/links.jsonp'
+  media: 'media'
+  ignore:
+    - index.html
+    - actus.html
+    - ecrits.html
+    - medias.html
+    - evenements.html
+    - tag.html
+    - _config.yml
+    - _prose.yml
+    - feed.xml
+    - links.jsonp
+    - styles.scss
+    - LICENSE
+    - CNAME
+    - .gitignore
+    - .htaccess
+    - /_layouts
+    - /_includes
+    - /_sass
+    - /images
+    - /javascripts
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+    _posts/actus:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "Actus"
+      - name: "title"
+        field:
+          element: "text"
+          label: "titre du billet"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Auteur"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Ajouter des tags"
+          placeholder: "Choisir Tags"
+          alterable: true
+    _posts/ecrits:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "Écrits"
+      - name: "title"
+        field:
+          element: "text"
+          label: "titre du billet"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Auteur"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Ajouter des tags"
+          placeholder: "Choisir Tags"
+          alterable: true
+      - name: "written-director"
+        field:
+          element: "text"
+          label: "Directeur(s)"
+          value: ""
+      - name: "written-writers"
+        field:
+          element: "text"
+          label: "Auteur(s)"
+          value: ""
+      - name: "written-publication"
+        field:
+          element: "text"
+          label: "Publication"
+          value: ""
+      - name: "written-collection"
+        field:
+          element: "text"
+          label: "Collection"
+          value: ""
+      - name: "written-number"
+        field:
+          element: "number"
+          label: "Nombre"
+          value: ""
+      - name: "written-editor"
+        field:
+          element: "text"
+          label: "Éditeur"
+          value: ""
+      - name: "written-town"
+        field:
+          element: "text"
+          label: "Ville"
+          value: ""
+    _posts/evenements:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "Événements"
+      - name: "title"
+        field:
+          element: "text"
+          label: "titre du billet"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Auteur"
+          value: ""
+      - name: "event-title"
+        field:
+          element: "text"
+          label: "Nom de l'événement"
+          value: ""
+      - name: "event-date"
+        field:
+          element: "text"
+          label: "Date (JJ Mois AAAA / HH:MM)"
+          value: "30 Juin 2015 / 23:30"
+      - name: "event-information"
+        field:
+          element: "text"
+          label: "Informations"
+          value: ""
+      - name: "event-contact"
+        field:
+          element: "multiselect"
+          label: "Contact"
+          placeholder: "Choisir des emails"
+          alterable: true
+    _posts/medias:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "Écrits"
+      - name: "title"
+        field:
+          element: "text"
+          label: "titre du billet"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Auteur"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Ajouter des tags"
+          placeholder: "Choisir Tags"
+          alterable: true
+      - name: "media-name"
+        field:
+          element: "text"
+          label: "Nom du site"
+          value: ""
+      - name: "media-url"
+        field:
+          element: "text"
+          label: "Adresse du site"
+          value: ""
+      - name: "media-date"
+        field:
+          label: "Date (JJ-MM-AAAA)"
+          value: "08-06-2015"
+      - name: "media-view"
+        field:
+          element: "text"
+          label: "Fréquentation"
+          value: ""
+      - name: "media-rythm"
+        field:
+          element: "text"
+          label: "Rythme de publication"
+          value: ""
