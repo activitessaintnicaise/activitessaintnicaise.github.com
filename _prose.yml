@@ -1,0 +1,66 @@
+permalink: pretty
+markdown: rdiscount
+prose:
+  rooturl: ''
+  siteurl: 'http://activitessaintnicaise.github.com'
+  relativeLinks: 'http://activitessaintnicaise.github.com/links.jsonp'
+  media: 'media'
+  ignore:
+    - /_layouts
+    - /_includes
+    - /_rake
+    - /_plugins
+    - /images
+    - /phantomas
+    - /assets
+    - /galerie
+    - gruntfile.js
+    - index.html
+    - atom.xml
+    - board.html
+    - _config.yml
+    - _prose.yml
+    - feed.xml
+    - links.jsonp
+    - LICENSE
+    - CNAME
+    - .gitmodules
+    - .gitignore
+    - .htaccess
+    - Gemfile
+    - Rakefile
+    - favicon.ico
+    - README.md
+    - changelog.md
+    - manifest.appcache
+    - robots.txt
+    - sitemap.txt
+    - 404.html
+    - actualites.html
+    - gallery.html
+    - slide-cannage.html
+    - slide-patchwork.html
+    - slide-refection-fauteuil.html
+    - slide-restauration-tableaux.html
+    - slide-tapisserie-aiguille.html
+    - stages.html
+    - package.json
+  metadata:
+    _posts/actualites:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "actualites"
+    _posts/stages:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "stages"
