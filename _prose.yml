@@ -8,6 +8,10 @@ prose:
   ignore:
     - /_layouts
     - /_includes
+    - /_rake
+    - /images
+    - /phantomas
+    - gruntfile.js
     - index.html
     - atom.xml
     - board.html
@@ -17,10 +21,15 @@ prose:
     - links.jsonp
     - LICENSE
     - CNAME
+    - .gitmodules
     - .gitignore
     - .htaccess
-    - /sass
-    - /gruntfile.js
+    - Gemfile
+    - Rakefile
+    - favicon.ico
+    - manifest.appcache
+    - robots.txt
+    - sitemap.txt
     - slide-cannage.html
     - slide-patchwork.html
     - slide-refection-tableaux.html
