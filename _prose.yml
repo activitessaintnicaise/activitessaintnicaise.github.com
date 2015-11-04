@@ -64,3 +64,18 @@ prose:
         field:
           element: "hidden"
           value: "stages"
+      - name: "periode"
+        field:
+          element: "text"
+          label: "Période"
+          value: ""
+      - name: "lieu"
+        field:
+          element: "text"
+          label: "Lieu"
+          value: ""
+      - name: "contact"
+        field:
+          element: "text"
+          label: "Contact"
+          value: ""
