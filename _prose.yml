@@ -46,11 +46,6 @@ prose:
     - stages.html
     - package.json
   metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "blog"
     _posts/actualites:
       - name: "layout"
         field:
