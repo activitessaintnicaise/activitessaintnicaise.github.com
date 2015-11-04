@@ -6,26 +6,27 @@ prose:
   relativeLinks: 'http://bertrandkeller.github.io/Labex/links.jsonp'
   media: 'media'
   ignore:
+    - /_layouts
+    - /_includes
     - index.html
-    - actus.html
-    - ecrits.html
-    - medias.html
-    - evenements.html
-    - tag.html
+    - atom.xml
+    - board.html
     - _config.yml
     - _prose.yml
     - feed.xml
     - links.jsonp
-    - styles.scss
     - LICENSE
     - CNAME
     - .gitignore
     - .htaccess
-    - /_layouts
-    - /_includes
-    - /_sass
-    - /images
-    - /javascripts
+    - /sass
+    - /gruntfile.js
+    - slide-cannage.html
+    - slide-patchwork.html
+    - slide-refection-tableaux.html
+    - slide-tapisserie-aiguille.html
+    - stages.html
+    - package.json
   metadata:
     _posts:
       - name: "layout"
