@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr" >
+<html lang="fr" manifest="manifest.appcache">
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
@@ -72,5 +72,15 @@
 
     {% include JB/analytics %}
     
+    <script src="{{ site.baseurl }}/assets/script/upup.sw.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/script/instantclick.min.js" data-no-instant></script>
+    <script data-no-instant>
+      InstantClick.init();
+      UpUp.start({
+            'content-url': '{{ page.url | replace:'/','' }}',
+            'assets':
+              ['{{ site.baseurl }}/bootstrap/css/bootstrap.min.css', '{{ site.baseurl }}/bootstrap/css/bootstrap-responsive.css', '{{ site.baseurl }}/css/style.css']
+          });
+    </script>
   </body>
 </html>
