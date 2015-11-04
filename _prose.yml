@@ -9,8 +9,11 @@ prose:
     - /_layouts
     - /_includes
     - /_rake
+    - /_plugins
     - /images
     - /phantomas
+    - /assets
+    - /galerie
     - gruntfile.js
     - index.html
     - atom.xml
@@ -27,9 +30,14 @@ prose:
     - Gemfile
     - Rakefile
     - favicon.ico
+    - README.md
+    - changelog.md
     - manifest.appcache
     - robots.txt
     - sitemap.txt
+    - 404.html
+    - actualites.html
+    - gallery.html
     - slide-cannage.html
     - slide-patchwork.html
     - slide-refection-tableaux.html
