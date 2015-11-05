@@ -71,8 +71,23 @@ h1 {
   font-size: 1.2em;
 }
 
-.home_gallery .thumbnail {
-  min-height: 365px;
+@media (max-width: 768px) {
+  .home_gallery .thumbnail {
+    overflow: hidden;
+  }
+  .home_gallery .thumbnail > a {
+    float: left;
+    margin-right: 0.8rem;
+  }
+  .home_gallery img {
+    max-width: 150px;
+  }
+}
+
+@media (min-width: 768px) {
+  .home_gallery .thumbnail {
+    min-height: 365px;
+  }  
 }
 
 .home_gallery h2 {
@@ -85,10 +100,9 @@ h1 {
   width: 100%;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 768px) {
   .home_gallery .span3 {
     width: 17.728%;
-    width: 100%;
   }
 }
 

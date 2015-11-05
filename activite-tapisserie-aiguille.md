@@ -6,13 +6,26 @@ description: Atelier de tapisserie à l'aiguille
 {% include JB/setup %}
 
 
-<div>
-	<h2>Présentation</h2>
-	<p>Venez découvrir cet art ancestral qui a traversé les âges.<br> Vous pouvez travailler sur une reproduction de tapisserie ancienne, un modèle de fresque ou une création…</p>
+##Présentation##
 
-	<p>L’étape  principale consiste à bien choisir le matériel nécessaire : le canevas – les fils selon leur épaisseur. Puis de fil en aiguille, de point en point, vous faites vivre le canevas avec toutes ses couleurs.<br>Et ceci dans une ambiance conviviale.</p>
+Venez découvrir cet art ancestral qui a traversé les âges.
+Vous pouvez travailler sur une reproduction de tapisserie ancienne, un modèle de fresque ou une création…
 
-</div>
+L’étape  principale consiste à bien choisir le matériel nécessaire : le canevas – les fils selon leur épaisseur. Puis de fil en aiguille, de point en point, vous faites vivre le canevas avec toutes ses couleurs.
+Et ceci dans une ambiance conviviale.
+
+##Modalités##
+
+De septembre à juin, un mercredi tous les 15 jours de 9 h à 12 h ; selon un calendrier établi en début d’année.<br>L’animateur expérimenté dispense ses conseils.
+
+##Inscriptions##
+
+Auprès de l’association ASN
+
+*Coût :* 30 € par an (adhésion et location de salle)
+Cours à régler directement à l’animateur : 185 € par an
+
+Reprise des cours le mercredi 23 septembre 2015.
 
 <div class="gallery">
 	<br />
@@ -36,18 +49,5 @@ description: Atelier de tapisserie à l'aiguille
 			<img src="assets/img/activite-tapisserie-aiguille/IMG_1412.JPG" width="800" alt="IMG 1412">
 		</li>
 	</ul>
-	<p>Voir le <a href="slide-tapisserie-aiguille.html">diaporama des ateliers de tapisserie à l'aiguille</a>.</p>
-</div>
-
-<div>
-	<h2>Modalités</h2>
-	<p>De septembre à juin, un mercredi tous les 15 jours de 9 h à 12 h ; selon un calendrier établi en début d’année.<br>L’animateur expérimenté dispense ses conseils.</p>
-</div>
-
-<div>
-	<h2>Inscriptions</h2>
-	<p>Auprès de l’association ASN</p>
-	<p><strong>Coût :</strong> 30 € par an (adhésion et location de salle)<br>Cours à régler directement à l’animateur : 185 € par an</p>
-
-	<p>Reprise des cours le mercredi 23 septembre 2015.</p>
+	Voir le <a href="slide-tapisserie-aiguille.html">diaporama des ateliers de tapisserie à l'aiguille</a>.
 </div>

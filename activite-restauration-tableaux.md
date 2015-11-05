@@ -6,15 +6,27 @@ description: Atelier de restauration de tableaux
 {% include JB/setup %}
 
 
-<div>
-	<h2>Présentation</h2>
-	<p>A l’atelier vous trouvez une solution adaptée à l’état de conservation de votre œuvre à restaurer</p>
 
-	<p>Un vernis altéré, une toile distendue…. Et l’examen attentif va permettre de rechercher les moyens techniques les plus appropriés à mettre en œuvre : nettoyage – dévernissage – masticage – rentoilage  puis remise en couleur…</p>
+##Présentation##
 
-	<p>Le tableau retrouve toute sa valeur.</p>
-	
-</div>
+A l’atelier vous trouvez une solution adaptée à l’état de conservation de votre œuvre à restaurer
+
+Un vernis altéré, une toile distendue…. Et l’examen attentif va permettre de rechercher les moyens techniques les plus appropriés à mettre en œuvre : nettoyage – dévernissage – masticage – rentoilage  puis remise en couleur…
+
+Le tableau retrouve toute sa valeur.
+
+##Modalités##
+
+Un vendredi tous les 15 jours de 9 h à 17 h  
+Les cours sont animés par une animatrice bénévole, spécialiste de la restauration de tableaux, qui transmet son savoir faire.
+
+##Inscriptions##
+
+Auprès de l’association
+
+*Coût :* 40 € par an — (Adhésion : 20 € et frais de location de salle : 20 €)
+
+Reprise des cours le vendredi 9 octobre 2015
 
 <div class="gallery">
 	<br />
@@ -38,20 +50,5 @@ description: Atelier de restauration de tableaux
 			<img src="assets/img/activite-nettoyage-tableaux/IMG_1391.JPG" width="800" alt="IMG 1391">
 		</li>
 	</ul>
-	<p>Voir le <a href="slide-restauration-tableaux.html">diaporama des ateliers de restauration de tableaux</a>.</p>
-</div>
-
-<div>
-	<h2>Modalités</h2>
-	<p>
-		Un vendredi tous les 15 jours de 9 h à 17 h<br>
-		Les cours sont animés par une animatrice bénévole, spécialiste de la restauration de tableaux, qui transmet son savoir faire.
-	</p>
-</div>
-
-<div>
-	<h2>Inscriptions</h2>
-	<p>Auprès de l’association</p>
-	<p><strong>Coût :</strong> 40 € par an — (Adhésion : 20 € et frais de location de salle : 20 €)</p>
-	<p>Reprise des cours le vendredi 9 octobre 2015</p>
+	Voir le <a href="slide-restauration-tableaux.html">diaporama des ateliers de restauration de tableaux</a>.
 </div>
