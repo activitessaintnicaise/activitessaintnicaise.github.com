@@ -15,5 +15,5 @@ Pensez à vous inscrire auprès de VANESSA afin de participer au prochain stage 
   * Mercredi 29 avril 2015 : 14 à 17 h et 17 à 20 h
   * Jeudi 30 avril 2015 : 14 à 17 h et 14 à 17 h
 
-**Coût :** 12 € 50 par séance de 3 heures.<br>
+**Coût :** 12 € 50 par séance de 3 heures.  
 **Note :**  À règler SVP dès l'inscription.

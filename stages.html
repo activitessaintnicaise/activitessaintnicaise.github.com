@@ -5,11 +5,15 @@ group: navigation
 ---
 
 {% for post in site.posts %}
+  {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% capture time %}{{ site.time | date: '%Y' }}{% endcapture %}
 	{% if post.category == 'stages' %}
+    {% if year == time %}
 		<article class="stage-list">
 			<h1>{{ post.periode }} - {{ post.title }}</h1>
       <p><strong>{{ post.lieu }} <br> Organisé par : {{ post.contact }}</strong></p>
 			{{ post.content }}
 		</article>
+    {% endif %}
 	{% endif %}
 {% endfor %}
