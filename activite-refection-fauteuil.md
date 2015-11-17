@@ -4,8 +4,6 @@ title: Réfection et tapisserie de sièges et fauteuils anciens
 description: Atelier de réfection et tapisserie de sièges et fauteuils anciens
 ---
 
-{% include JB/setup %}
-
 ##Présentation##
 Depuis plus de 30 ans, cette association régie par la loi 1901, propose des activités de loisirs en fonction des demandes. Elle a donc évolué dans ses propositions et ses actions ; actuellement elle organise des ateliers de loisirs créatifs qui favorisent du lien social entre ses membres.
 

@@ -3,9 +3,6 @@ layout: page
 title: Restauration de tableaux
 description: Atelier de restauration de tableaux
 ---
-{% include JB/setup %}
-
-
 
 ##Présentation##
 

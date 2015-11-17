@@ -4,8 +4,6 @@ title: Cannage de chaises
 description: Atelier de cannage de chaise
 ---
 
-{% include JB/setup %}
-
 ##Présentation##
 
 Si vous souhaitez remettre à neuf votre mobilier (chaise ; pouf….). Vous êtes attendue à l’atelier de cannage – à l’ancienne.

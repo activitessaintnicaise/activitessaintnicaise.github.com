@@ -3,9 +3,6 @@ layout: page
 title: Patchwork
 description: Atelier de patchwork
 ---
-{% include JB/setup %}
-
-
 
 ##Présentation##
 
