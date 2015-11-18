@@ -2,7 +2,7 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: ''
-  siteurl: 'http://activitessaintnicaise.github.com'
+  siteurl: 'http://activitesaintnicaise.org'
   relativeLinks: 'http://activitessaintnicaise.github.com/links.jsonp'
   media: 'media'
   ignore:
@@ -51,7 +51,7 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "categories"
+      - name: "category"
         field:
           element: "hidden"
           value: "actualites"
@@ -60,7 +60,7 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "categories"
+      - name: "category"
         field:
           element: "hidden"
           value: "stages"
