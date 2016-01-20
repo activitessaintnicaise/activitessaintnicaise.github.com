@@ -8,6 +8,7 @@ published: false
 ---
 
 
+
 ## A New Post
 Un stage de réfection de fauteuils aura lieu du 9 - 10 et 11 Février 2016 à la maison Saint Nicaise.
 
