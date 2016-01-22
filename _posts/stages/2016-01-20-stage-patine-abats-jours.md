@@ -28,11 +28,13 @@ De 10h à 16h
 Matin: patine du pied de lampe - Après-Midi: confection de l'abat- jour
 
 Les fournitures (Elles sont fournies par l'atelier) : 
+
 - Pied de lampe : de 24 à 50€ selon le modèle
 - Patine (peinture) :5,60€
 - Kit abat - jour : 25 à 45€ (3 modèles par cession)
 
 Prévoir le matériel suivant :  
+
 1. Ciseau (pas de cutter), 
 2. Colle à passementerie,
 3. Perforatrice
