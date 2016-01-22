@@ -1,16 +1,18 @@
 ---
-category: actualites
+title: Session d'initiation patine et abat jour
 layout: post
-published: false
+category: stages
+periode: À déterminer
+lieu: Maison Saint-Nicaise ou atelier Julie M.La Déco 3 rue de l'épicerie - Rouen
+contact: Julie M.La Déco
 ---
 
-## A New Post
 Une nouvelle activité est proposé par l'association Saint-Nicaise. Elle s'ajoutera à la rénovation de fauteuils anciens, le patchwork, la tapisserie à l’aiguille, le cannage et la restauration de tableaux.
  
-Une session d'initiation patine et abat jour est organisée à partir de Janvier 2016 ( Dates à préciser selon le nombre d'inscrits)
-Cette activité sera assuré par l' atelier Julie M.La Déco 
+Une session d'initiation patine et abat jour est organisée à partir de Janvier 2016 (Dates à préciser selon le nombre d'inscrits)
+Cette activité sera assurée par l'atelier Julie M.La Déco 
 	
- Lieux de formation  :
+ Lieux de formation:
 _ soit à l' atelier Julie M.La Déco
 3 rue de l'épicerie  76000ROUEN
 
@@ -31,10 +33,9 @@ Les fournitures :
 	_ Patine (peinture) :5,60€
 	_ Kit abat - jour : 25 à 45€ (3 modèles par cession)
 
-Prévoir le matériel suivant : ciseau ( pas de cutter), colle à passementerie et perforatrice
+Prévoir le matériel suivant : ciseau (pas de cutter), colle à passementerie et perforatrice
 
 Possibilité de visionner les créations de l'atelier sur le site :Festi-creatif-hardelot.com, puis le blog et descendre sur  « atelierJulie M »
   
-S'adresser à l'ASN pour avoir des informations supplémentairesconcernant cette activité de loisir créatif.
+S'adresser à l'ASN pour avoir des informations supplémentaires concernant cette activité de loisir créatif.
  
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
