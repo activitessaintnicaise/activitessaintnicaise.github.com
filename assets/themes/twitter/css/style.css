@@ -6,8 +6,9 @@ body {
 .navbar {
   margin-bottom: 0;
 }
-.container > footer {
+footer {
   margin-top: 20px;
+  text-align: center;
 }
 .container > footer p {
   text-align: center; /* center align it with the container */
@@ -17,6 +18,10 @@ body {
 
 h1 {
   margin: .2em 0 .5em;
+}
+
+p {
+  font-size: 15px;
 }
 
 /* The white background content wrapper */
