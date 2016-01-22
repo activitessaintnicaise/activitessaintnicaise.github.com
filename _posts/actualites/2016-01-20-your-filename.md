@@ -17,23 +17,25 @@ Une session d'initiation patine et abat jour est organisée à partir de Janvier
 Cette activité sera assurée par l'atelier Julie M.La Déco 
 
 **groupe de 3 personnes** 
+
 Coût 10€ pour 2h ; 20€ pour 4h
 Soit à la maison St Nicaise pour les adhérents de l'association
 
 **groupe de 8 personnes** 
+
 Coût 20€ tarif associatif
 De 10h à 16h
 Matin: patine du pied de lampe - Après-Midi:confection de l'abat- jour
 
 Les fournitures (Elles sont fournies par l'atelier) : 
-	- Pied de lampe : de 24 à 50€ selon le modèle
-	- Patine (peinture) :5,60€
-	- Kit abat - jour : 25 à 45€ (3 modèles par cession)
+- Pied de lampe : de 24 à 50€ selon le modèle
+- Patine (peinture) :5,60€
+- Kit abat - jour : 25 à 45€ (3 modèles par cession)
 
 Prévoir le matériel suivant :  
-	1. Ciseau (pas de cutter), 
-	2. Colle à passementerie 
-	3. Perforatrice
+1. Ciseau (pas de cutter), 
+2. Colle à passementerie 
+3. Perforatrice
 
 Possibilité de visionner les créations de l'atelier sur le site : Festi-creatif-hardelot.com, puis le blog et descendre sur  « atelierJulie M »
   
