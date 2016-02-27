@@ -26,16 +26,6 @@ gadash :
     production : 873987230620-22r92a7bf0jelikj0p09ptkc1pi3qst2.apps.googleusercontent.com
   table_id : ga:67617751
 
-
-# Assets Pipeline
-javascript_compressor: closure
-
-stylesheets:
-  screen:
-    - themes/twitter/bootstrap/css/bootstrap.min.css
-    - themes/twitter/bootstrap/css/bootstrap-responsive.css
-    - themes/twitter/css/style.css
-
 prose:
   siteurl: "http://activitesaintnicaise.org"
   relativeLinks: ''

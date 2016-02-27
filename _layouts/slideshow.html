@@ -1,8 +1,47 @@
----
-theme :
-  name : twitter
-lang: fr
----
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="author" content="{{ site.author.name }}">
+    <meta name="google-site-verification" content="jo15JFrrTBodmahECq60mP7bdTPre2I420D-rRoIOSs" />
 
-{% include JB/setup %}
-{% include themes/twitter/slideshow.html %}
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    {% include slideshow-js.html %}
+  </head>
+
+  <body>
+    {% include slideshow-menu.html %}
+    {% include slideshow-gallery.html %}
+    {% include JB/analytics %}
+    <script>
+      // Find the right method, call on correct element
+      function launchFullscreen(element) {
+        if(element.requestFullscreen) {
+          element.requestFullscreen();
+        } else if(element.mozRequestFullScreen) {
+          element.mozRequestFullScreen();
+        } else if(element.webkitRequestFullscreen) {
+          element.webkitRequestFullscreen();
+        } else if(element.msRequestFullscreen) {
+          element.msRequestFullscreen();
+        }
+      }
+      function exitFullscreen() {
+        if(document.exitFullscreen) {
+          document.exitFullscreen();
+        } else if(document.mozCancelFullScreen) {
+          document.mozCancelFullScreen();
+        } else if(document.webkitExitFullscreen) {
+          document.webkitExitFullscreen();
+        }
+      }
+    </script>
+  </body>
+</html>
+

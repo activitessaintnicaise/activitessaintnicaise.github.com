@@ -1,11 +1,17 @@
 source 'https://rubygems.org'
 
-gem 'sass'
-gem 'jekyll', '0.12.0'
-gem "jammit"
-gem "RedCloth"
-gem "kramdown"
-gem "jekyll-pagination"
-gem "jekyll-paginate"
-gem "jekyll-localization"
-gem "jekyll-watch"
+require 'json'
+require 'open-uri'
+versions = JSON.parse(open('https://pages.github.com/versions.json').read)
+
+gem 'github-pages'
+
+group :development do
+    gem 'foreman'
+end
+
+group :test do
+    gem 'rake'
+    gem 'jekyll', versions['jekyll']
+    gem 'html-proofer'
+end
