@@ -9,9 +9,8 @@ published: true
 ---
 
 
-
 Une nouvelle activité est proposé par l'association Saint-Nicaise. 
-Une session d'initiation patine et abat jour est organisée le 26.02. 2016  
+Une session d'initiation patine et abat jour est organisée le 26.02.2016  
 Cette activité sera assurée par Mme Nicole Marsault de l'atelier Julie M.La Déco 
 
 ##Modalités##

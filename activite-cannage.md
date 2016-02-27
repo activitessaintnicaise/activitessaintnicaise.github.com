@@ -10,13 +10,13 @@ Si vous souhaitez remettre à neuf votre mobilier (chaise ; pouf….). Vous êt
 
 Pour le cannage à la main ; la canne de rotin est nouée et tissée brin par brin. Elle traverse le chassis de la chaise et est ensuite logée dans la gorge.
 
-Ce travail artisanal est réalisé avec six fils à la française.<br />Un peu de patience et de minutie et le tour est joué…
+Ce travail artisanal est réalisé avec six fils à la française.<br />Un peu de patience et de minutie et le tour est joué...
 
 ##Modalités##
 
 Organisation de sessions d’initiation (5 ou 6 séances) le vendredi matin – tous les 15 jours – de 9 h à 11 h  
 Le calendrier est établi avec l’animatrice et les participants.  
-L’animatrice de cet atelier vous guide dans vos travaux respectifs.*
+*L’animatrice de cet atelier vous guide dans vos travaux respectifs.*
 
 ##Inscriptions##
 
