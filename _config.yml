@@ -3,7 +3,7 @@
 permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc",".rbenv-version","Rakefile","Gemfile","Gemfile.lock","changelog.md","README.md",'sass','watch.sh','node_modules'] # files to exclude
 #paginate: 1
-pygment: true
+#pygment: true
 production: true
 env : production
 markdown: kramdown
