@@ -6,6 +6,7 @@ exclude: [".rvmrc",".rbenv-version","Rakefile","Gemfile","Gemfile.lock","changel
 pygment: true
 production: true
 env : production
+markdown: kramdown
 
 # Configuration
 title: Activités Saint-Nicaise
