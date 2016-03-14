@@ -18,7 +18,7 @@ description: Actualités des Activités Saint-Nicaise
     {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
     {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
-  
+
     {% if forloop.first %}
       {% if post.category == 'actualites' %}
         <h2>{{this_year}}</h2>
@@ -37,11 +37,9 @@ description: Actualités des Activités Saint-Nicaise
         </ul>
         <h2>{{next_year}}</h2>
         <ul>
-      {% else %}    
+      {% else %}
       {% if this_month != next_month %}
-         </ul>
-          <ul>
-        {% endif %}
+      {% endif %}
       {% endif %}
     {% endif %}
   {% endfor %}
