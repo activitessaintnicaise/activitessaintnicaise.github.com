@@ -13,8 +13,9 @@ Tout est possible avec des points, des carrés, des quilts et surtout beaucoup d
 Il convient de préparer des gabarits — choisir des tissus — assembler des blocs — donner du relief et ceci avec des points réguliers et nombreux — et surtout trouver l'équilibre des couleurs pour mieux harmoniser les tissus.
 
 ##Modalités##
+
 De septembre à juin : un mercredi tous les 15 jours de 9h à 12h : selonun calendrier préétabli en début d'année avec l'animatrice et les participants.  
-les cours sont animés par une animatrice bénévole qui a une longue expérience des tehcniques et qui transmet des conseils avisés.
+Les cours sont animés par une animatrice bénévole qui a une longue expérience des techniques et qui transmet des conseils avisés.
 
 ##Inscriptions##
 
