@@ -4,7 +4,7 @@ title: Restauration de tableaux
 description: Atelier de restauration de tableaux
 ---
 
-##Présentation##
+## Présentation ##
 
 A l’atelier vous trouvez une solution adaptée à l’état de conservation de votre œuvre à restaurer
 
@@ -12,12 +12,12 @@ Un vernis altéré, une toile distendue…. Et l’examen attentif va permettre 
 
 Le tableau retrouve toute sa valeur.
 
-##Modalités##
+## Modalités ##
 
 Un vendredi tous les 15 jours de 9 h à 17 h  
 Les cours sont animés par une animatrice bénévole, spécialiste de la restauration de tableaux, qui transmet son savoir faire.
 
-##Inscriptions##
+## Inscriptions ##
 
 Auprès de l’association
 

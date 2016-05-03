@@ -4,7 +4,7 @@ title: Tapisserie à l'aiguille
 description: Atelier de tapisserie à l'aiguille
 ---
 
-##Présentation##
+## Présentation ##
 
 Venez découvrir cet art ancestral qui a traversé les âges.
 Vous pouvez travailler sur une reproduction de tapisserie ancienne, un modèle de fresque ou une création…
@@ -12,11 +12,11 @@ Vous pouvez travailler sur une reproduction de tapisserie ancienne, un modèle d
 L’étape  principale consiste à bien choisir le matériel nécessaire : le canevas – les fils selon leur épaisseur. Puis de fil en aiguille, de point en point, vous faites vivre le canevas avec toutes ses couleurs.
 Et ceci dans une ambiance conviviale.
 
-##Modalités##
+## Modalités ##
 
 De septembre à juin, un mercredi tous les 15 jours de 9 h à 12 h ; selon un calendrier établi en début d’année.<br>L’animateur expérimenté dispense ses conseils.
 
-##Inscriptions##
+## Inscriptions ##
 
 Auprès de l’association ASN
 

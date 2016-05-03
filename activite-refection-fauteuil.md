@@ -4,7 +4,7 @@ title: Réfection et tapisserie de sièges et fauteuils anciens
 description: Atelier de réfection et tapisserie de sièges et fauteuils anciens
 ---
 
-##Présentation##
+## Présentation ##
 
 Depuis plus de 30 ans, cette association régie par la loi 1901, propose des activités de loisirs en fonction des demandes. Elle a donc évolué dans ses propositions et ses actions ; actuellement elle organise des ateliers de loisirs créatifs qui favorisent du lien social entre ses membres.
 
@@ -12,9 +12,9 @@ ASN vous accueille à la Maison Saint Nicaise – 18 rue Poussin – 76000 - ROU
 
 Différents ateliers créatifs se déroulent avec les précieux conseils d’un animateur ou d’un professeur diplômé.
 
-##Modalités##
+## Modalités ##
 
-###Quand ?###
+### Quand ? ###
 
 Les ateliers fonctionnent de septembre à fin juin
 
@@ -47,13 +47,13 @@ Les ateliers fonctionnent de septembre à fin juin
 	</tbody>	
 </table>
 
-###Comment ?###
+### Comment ? ###
 	
  1. Choix entre 6 cours de 3 heures par semaine (voir tableau ci-joint)
  2. Dans la salle du 1er étage à la Maison Saint Nicaise – 18 rue Poussin à Rouen
  3. Avec les conseils d’un professeur diplômé en tapisserie traditionnelle (expérience professionnelle de plus de 10 ans avec l’association)
 	
-##Inscriptions##
+## Inscriptions ##
 
  - Pour l’année de septembre à juin
  - Adhésion à l’association : 20 € par an
