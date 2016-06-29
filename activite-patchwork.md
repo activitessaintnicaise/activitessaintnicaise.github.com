@@ -22,22 +22,22 @@ Les cours sont animés par une animatrice bénévole qui a une longue expérienc
 Auprès de l’association ASN  
 L'adhésion à l'association s'élève à 20€ par an ; et la participation pour les frais de la location de la salle à 10€ par an.
 
-La reprise des cours aura lieu le mercredi 16 septembre 2015.
+La reprise des cours aura lieu le mercredi 28 septembre 2016.
 
 <div class="gallery">
 	<br />
 	<ul class="thumbnails">
 		<li class="span2">
-			<img src="assets/img/activite-patchwork/IMG_1357.JPG" width="800" alt="IMG 1357">
+			<img src="assets/img/activite-patchwork/IMG_1357.JPG" width="800" alt="patchwork Rouen">
 		</li>                                                               
 		<li class="span2">                                                  
-			<img src="assets/img/activite-patchwork/IMG_1360.JPG" width="800" alt="IMG 1360">
+			<img src="assets/img/activite-patchwork/IMG_1360.JPG" width="800" alt="patchwork Rouen">
 		</li>                                                               
 		<li class="span2">                                                  
-			<img src="assets/img/activite-patchwork/IMG_1365.JPG" width="800" alt="IMG 1365">
+			<img src="assets/img/activite-patchwork/IMG_1365.JPG" width="800" alt="patchwork Rouen">
 		</li>                                                               
 		<li class="span2">                                                  
-			<img src="assets/img/activite-patchwork/IMG_1363.JPG" width="800" alt="IMG 1363">
+			<img src="assets/img/activite-patchwork/IMG_1363.JPG" width="800" alt="patchwork Rouen">
 		</li>                                                               
 		<li class="span2">                                                  
 			<img src="assets/img/activite-patchwork/IMG_1366.JPG" width="800" alt="IMG 1366">

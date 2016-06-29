@@ -60,29 +60,29 @@ Les ateliers fonctionnent de septembre à fin juin
  - Réinscription en juin pour l’année suivante.
  - Coût : 330 € pour 32 cours  (année 2015 -2016)<br>Règlement en 3 fois.(octobre – janvier et avril)
 
-Reprise des cours : le Mardi 15 Septembre 2015  
+Reprise des cours : le Mardi 13 Septembre 2016.
 Possibilités de stages pendant les vacances scolaires.
 
 <div class="gallery">
 	<br />
 	<ul class="thumbnails">
 		<li class="span2">
-			<img src="assets/img/activite-refection-fauteuil/IMG_1262.JPG" width="600" height="600" alt="IMG 1262">
+			<img src="assets/img/activite-refection-fauteuil/IMG_1262.JPG" width="600" height="600" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
 		</li>
 		<li class="span2">
-			<img src="assets/img/activite-refection-fauteuil/IMG_1295.JPG" width="800" height="800" alt="IMG 1295">
+			<img src="assets/img/activite-refection-fauteuil/IMG_1295.JPG" width="800" height="800" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
 		</li>
 		<li class="span2">
-			<img src="assets/img/activite-refection-fauteuil/IMG_1219.JPG" width="800" height="800" alt="IMG 1219">
+			<img src="assets/img/activite-refection-fauteuil/IMG_1219.JPG" width="800" height="800" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
 		</li>
 		<li class="span2">
-			<img src="assets/img/activite-refection-fauteuil/IMG_1212.JPG" width="600" height="600" alt="IMG 1212">
+			<img src="assets/img/activite-refection-fauteuil/IMG_1212.JPG" width="600" height="600" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
 		</li>
 		<li class="span2">
-			<img src="assets/img/activite-refection-fauteuil/IMG_1241.JPG" width="600" height="600" alt="IMG 1241">
+			<img src="assets/img/activite-refection-fauteuil/IMG_1241.JPG" width="600" height="600" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
 		</li>
 		<li class="span2">
-			<img src="assets/img/activite-refection-fauteuil/IMG_1256.JPG" width="800" height="800" alt="IMG 1256">
+			<img src="assets/img/activite-refection-fauteuil/IMG_1256.JPG" width="800" height="800" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
 		</li>
 	</ul>
 

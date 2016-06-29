@@ -23,28 +23,28 @@ Auprès de l’association ASN
 *Coût :* 30 € par an (adhésion et location de salle)
 Cours à régler directement à l’animateur : 185 € par an
 
-Reprise des cours le mercredi 23 septembre 2015.
+Reprise des cours le mercredi 21 septembre 2016.
 
 <div class="gallery">
 	<br />
 	<ul class="thumbnails">
 		<li class="span2">
-			<img src="assets/img/activite-tapisserie-aiguille/IMG_1380.JPG" width="800" alt="IMG 1380">
+			<img src="assets/img/activite-tapisserie-aiguille/IMG_1380.JPG" width="800" alt="tapisserie à l'aiguille Rouen">
 		</li>                                                                         
 		<li class="span2">                                                            
-			<img src="assets/img/activite-tapisserie-aiguille/IMG_1381.JPG" width="800" alt="IMG 1381">
+			<img src="assets/img/activite-tapisserie-aiguille/IMG_1381.JPG" width="800" alt="tapisserie à l'aiguille Rouen">
 		</li>                                                                         
 		<li class="span2">                                                            
-			<img src="assets/img/activite-tapisserie-aiguille/IMG_1393.JPG" width="800" alt="IMG 1393">
+			<img src="assets/img/activite-tapisserie-aiguille/IMG_1393.JPG" width="800" alt="tapisserie à l'aiguille Rouen">
 		</li>                                                                         
 		<li class="span2">                                                            
-			<img src="assets/img/activite-tapisserie-aiguille/IMG_1394.JPG" width="800" alt="IMG 1394">
+			<img src="assets/img/activite-tapisserie-aiguille/IMG_1394.JPG" width="800" alt="tapisserie à l'aiguille Rouen">
 		</li>                                                                         
 		<li class="span2">                                                            
-			<img src="assets/img/activite-tapisserie-aiguille/IMG_1402.JPG" width="800" alt="IMG 1402">
+			<img src="assets/img/activite-tapisserie-aiguille/IMG_1402.JPG" width="800" alt="tapisserie à l'aiguille Rouen">
 		</li>                                                                         
 		<li class="span2">                                                            
-			<img src="assets/img/activite-tapisserie-aiguille/IMG_1412.JPG" width="800" alt="IMG 1412">
+			<img src="assets/img/activite-tapisserie-aiguille/IMG_1412.JPG" width="800" alt="tapisserie à l'aiguille Rouen">
 		</li>
 	</ul>
 	Voir le <a href="slide-tapisserie-aiguille.html">diaporama des ateliers de tapisserie à l'aiguille</a>.

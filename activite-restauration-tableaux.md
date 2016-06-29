@@ -23,28 +23,28 @@ Auprès de l’association
 
 *Coût :* 40 € par an — (Adhésion : 20 € et frais de location de salle : 20 €)
 
-Reprise des cours le vendredi 9 octobre 2015
+Reprise des cours le vendredi 14 octobre 2016
 
 <div class="gallery">
 	<br />
 	<ul class="thumbnails">
 		<li class="span2">
-			<img src="assets/img/activite-nettoyage-tableaux/IMG_1348.JPG" width="800" alt="IMG 1348">
+			<img src="assets/img/activite-nettoyage-tableaux/IMG_1348.JPG" width="800" alt="restauration de tableaux Rouen">
 		</li>                                                                        
 		<li class="span2">                                                           
-			<img src="assets/img/activite-nettoyage-tableaux/IMG_1404.JPG" width="800" alt="IMG 1404">
+			<img src="assets/img/activite-nettoyage-tableaux/IMG_1404.JPG" width="800" alt="restauration de tableaux Rouen">
 		</li>                                                                        
 		<li class="span2">                                                           
-			<img src="assets/img/activite-nettoyage-tableaux/IMG_1382.JPG" width="800" alt="IMG 1382">
+			<img src="assets/img/activite-nettoyage-tableaux/IMG_1382.JPG" width="800" alt="restauration de tableaux Rouen">
 		</li>                                                                        
 		<li class="span2">                                                           
-			<img src="assets/img/activite-nettoyage-tableaux/IMG_1392.JPG" width="800" alt="IMG 1392">
+			<img src="assets/img/activite-nettoyage-tableaux/IMG_1392.JPG" width="800" alt="restauration de tableaux Rouen">
 		</li>                                                                        
 		<li class="span2">                                                           
-			<img src="assets/img/activite-nettoyage-tableaux/IMG_1389.JPG" width="800" alt="IMG 1389">
+			<img src="assets/img/activite-nettoyage-tableaux/IMG_1389.JPG" width="800" alt="restauration de tableaux Rouen">
 		</li>                                                                        
 		<li class="span2">                                                           
-			<img src="assets/img/activite-nettoyage-tableaux/IMG_1391.JPG" width="800" alt="IMG 1391">
+			<img src="assets/img/activite-nettoyage-tableaux/IMG_1391.JPG" width="800" alt="restauration de tableaux Rouen">
 		</li>
 	</ul>
 	Voir le <a href="slide-restauration-tableaux.html">diaporama des ateliers de restauration de tableaux</a>.
