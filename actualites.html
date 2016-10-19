@@ -20,18 +20,14 @@ description: Actualités des Activités Saint-Nicaise
     {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
 
     {% if forloop.first %}
-      {% if post.category == 'actualites' %}
-        <h2>{{this_year}}</h2>
-        <ul>
-      {% endif %}
+      <h2>{{this_year}}</h2>
+      <ul>
     {% endif %}
     {% if post.category == 'actualites' %}
       <li><span>{{ post.date | date: "%d-%m-%Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
     {% if forloop.last %}
-      {% if post.category == 'actualites' %}
-        </ul>
-      {% endif %}
+      </ul>
     {% else %}
       {% if this_year != next_year %}
         </ul>
