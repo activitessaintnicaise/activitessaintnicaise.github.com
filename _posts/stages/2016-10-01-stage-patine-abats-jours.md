@@ -11,7 +11,7 @@ published: true
 Une session d'initiation patine et abat jour est organisée le 21.10.2016  
 Cette activité sera assurée par Mme Nicole Marsault de l'atelier Julie M.La Déco 
 
-##Modalités##
+## Modalités ##
 
 **Groupe de 8 personnes** déjà inscrites  
 Coût 20€ tarif associatif  
@@ -20,7 +20,7 @@ De 09h à 12h: patine du pied de lampe
 De 14h à 17h: confection de l'abat-jour   
 Possibilité de déjeuner sur place en amenant son repas.
 
-##Matériel##
+## Matériel ##
 
 **Les fournitures (Elles sont fournies par l'atelier) :**
 A choisir à l'atelier 3 rue de l'épicerie avant le 26.02.2016
