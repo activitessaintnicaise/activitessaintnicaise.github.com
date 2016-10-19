@@ -42,6 +42,16 @@
         }
       }
     </script>
+    <script src="{{ site.baseurl }}/upup.sw.min.js" data-no-instant></script>
+    <script src="{{ site.baseurl }}/assets/script/instantclick.min.js" data-no-instant></script>
+    <script data-no-instant>
+      InstantClick.init();
+      UpUp.start({
+            'content-url': '{{ page.url | replace:'/','' }}',
+            'assets':
+              ['{{ site.baseurl }}/assets/themes/bootstrap/css/bootstrap.min.css', '{{ site.baseurl }}/assets/themes/bootstrap/css/bootstrap-responsive.css', '{{ site.baseurl }}/assets/themes/css/style.css']
+          });
+    </script>
   </body>
 </html>
 
