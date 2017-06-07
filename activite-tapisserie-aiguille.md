@@ -2,6 +2,7 @@
 layout: page
 title: Tapisserie à l'aiguille
 description: Atelier de tapisserie à l'aiguille
+published: false
 ---
 
 ## Présentation ##

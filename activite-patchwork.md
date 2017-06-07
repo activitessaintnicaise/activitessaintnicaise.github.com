@@ -22,7 +22,7 @@ Les cours sont animés par une animatrice bénévole qui a une longue expérienc
 Auprès de l’association ASN  
 L'adhésion à l'association s'élève à 20€ par an ; et la participation pour les frais de la location de la salle à 10€ par an.
 
-La reprise des cours aura lieu le mercredi 28 septembre 2016.
+La reprise des cours aura lieu le mercredi 27 septembre 2017.
 
 <div class="gallery">
 	<br />

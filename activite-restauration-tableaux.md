@@ -23,7 +23,7 @@ Auprès de l’association
 
 *Coût :* 40 € par an — (Adhésion : 20 € et frais de location de salle : 20 €)
 
-Reprise des cours le vendredi 14 octobre 2016
+Reprise des cours le vendredi 6 octobre 2017.
 
 <div class="gallery">
 	<br />

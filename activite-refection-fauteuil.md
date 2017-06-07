@@ -60,7 +60,7 @@ Les ateliers fonctionnent de septembre à fin juin
  - Réinscription en juin pour l’année suivante.
  - Coût : 330 € pour 32 cours  (année 2015 -2016)<br>Règlement en 3 fois.(octobre – janvier et avril)
 
-Reprise des cours : le Mardi 13 Septembre 2016.
+Reprise des cours : le Mardi 19 Septembre 2017.
 Possibilités de stages pendant les vacances scolaires.
 
 <div class="gallery">
