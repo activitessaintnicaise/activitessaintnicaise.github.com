@@ -1,6 +1,7 @@
 {
   "lang": "fr",
   "background_color": "#ffffff",
+  "theme-color": "#ffffff",
   "name": "Activités Saint Nicaise",
   "short_name": "ASN",
   "display": "standalone",
@@ -10,6 +11,7 @@
       "sizes": "144x144",
       "type": "image/png"
     }
-  ]
+  ],
+  "start_url": "index.html?launcher=true"
 }
 
