@@ -82,9 +82,8 @@ PLATFORMS
 DEPENDENCIES
   foreman
   html-proofer (~> 3.0.0)
-  json
   octopress-autoprefixer
   rake (~> 11.0.0)
 
 BUNDLED WITH
-   1.13.5
+   1.15.1
