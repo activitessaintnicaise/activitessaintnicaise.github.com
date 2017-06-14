@@ -1,6 +1,7 @@
 /* Override some defaults */
 html,
 body {
+  padding: 0;
   background-color: #eee;
 }
 .navbar {
@@ -10,8 +11,19 @@ footer {
   margin-top: 20px;
   text-align: center;
 }
+
+@media (max-width: 767px) {
+  .container {
+    padding: 20px;
+  }
+}
+
 .container > footer p {
   text-align: center; /* center align it with the container */
+}
+
+.navbar-inner {
+  border-radius: 0;
 }
 
 /* Typography ======================================================== */
@@ -20,8 +32,19 @@ h1 {
   margin: .2em 0 .5em;
 }
 
+.hero-unit h1 {
+    font-size: calc(2rem + 1vw);
+  }
+
 p {
   font-size: 15px;
+}
+
+.grid-layout {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+  grid-gap: 2vw;
+  margin-bottom: $base-line;
 }
 
 /* The white background content wrapper */
