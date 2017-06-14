@@ -36,7 +36,7 @@ collections: # A list of collections the CMS should be able to edit
       preview: false
     files:
       - name: "Date"
-        label: "date"
+        label: "Dates"
         file: "_data/dates.yml"
         description: "Date de reprises"
         fields:
@@ -45,7 +45,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Date cannage", name: "date_cannage", widget: "string", required: false}
           - {label: "Date tableau", name: "date_tableau", widget: "string", required: false}
       - name: "Prix"
-        label: "prix"
+        label: "Prix"
         file: "_data/prix.yml"
         description: "Cotisations à l'association'"
         fields:
