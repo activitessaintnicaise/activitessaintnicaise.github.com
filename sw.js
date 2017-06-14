@@ -26,6 +26,18 @@ const filesToCache = [
   "/assets/themes/twitter/bootstrap/css/bootstrap-responsive.css",
   "/assets/themes/twitter/bootstrap/css/bootstrap.min.css",
   "/assets/themes/twitter/css/style.css",
+  "assets/img/activite-patchwork/IMG_1357.JPG",
+	"assets/img/activite-patchwork/IMG_1360.JPG",
+	"assets/img/activite-patchwork/IMG_1365.JPG",
+	"assets/img/activite-patchwork/IMG_1363.JPG",
+	"assets/img/activite-patchwork/IMG_1366.JPG", 
+	"assets/img/activite-patchwork/IMG_1379.JPG", 
+  "assets/img/activite-refection-fauteuil/IMG_1262.JPG",
+	"assets/img/activite-refection-fauteuil/IMG_1295.JPG",
+	"assets/img/activite-refection-fauteuil/IMG_1219.JPG",
+	"assets/img/activite-refection-fauteuil/IMG_1212.JPG",
+	"assets/img/activite-refection-fauteuil/IMG_1241.JPG",
+	"assets/img/activite-refection-fauteuil/IMG_1256.JPG",
   "/index.html"
 ];
 
