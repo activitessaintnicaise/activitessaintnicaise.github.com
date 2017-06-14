@@ -33,8 +33,12 @@ h1 {
 }
 
 .hero-unit h1 {
-    font-size: calc(2rem + 1vw);
-  }
+  font-size: calc(2rem + 1vw);
+}
+
+.hero-unit p {
+  overflow: hidden;
+}
 
 p {
   font-size: 15px;
@@ -92,6 +96,14 @@ p {
 
 .logo {
   margin-right: 2em;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 520px) {
+  .logo {
+    float: none;
+    width: 80%; 
+  }
 }
 
 .highlight {
