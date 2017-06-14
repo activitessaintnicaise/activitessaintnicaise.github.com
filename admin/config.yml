@@ -4,6 +4,7 @@ backend:
   branch: master # Branch to update (master by default)
 
 media_folder: "assets/uploads" # Folder where user uploaded files should go
+publish_mode: editorial_workflow
 
 collections: # A list of collections the CMS should be able to edit
   - name: "stages" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -11,20 +12,21 @@ collections: # A list of collections the CMS should be able to edit
     folder: "_posts/stages" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Titre", name: "title", widget: "string", tagname: "titre"}
+      - {label: "Titre", name: "title", widget: "string"}
       - {label: "Contenu", name: "body", widget: "markdown"}
-      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
-    meta:
-      - {label: "Categorie", name: "category", widget: "string"}
+      - {label: "Période", name: "periode", widget: "string"}
+      - {label: "Lieu", name: "lieu", widget: "string", default: "Maison Saint-Nicaise - Rouen"}
+      - {label: "Contact", name: "contact", widget: "string", default: "Vanessa Laplanche"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Categorie", name: "category", widget: "hidden", default: "stages"}
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Billet" # Used in the UI, ie.: "New Post"
     folder: "_posts/actualites"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
-      - {label: "Image", name: "image", widget: "image", required: false, tagname: ""}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Contenu", name: "body", widget: "markdown"}
-    meta:
-      - {label: "Categorie", name: "category", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Categorie", name: "category", widget: "hidden", default: "actualites"}
