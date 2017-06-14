@@ -58,31 +58,31 @@ Les ateliers fonctionnent de septembre à fin juin
  - Pour l’année de septembre à juin
  - Adhésion à l’association : 20 € par an
  - Réinscription en juin pour l’année suivante.
- - Coût : 330 € pour 32 cours (année 2017 -2018)<br>Règlement en 3 fois.(octobre – janvier et avril)
+ - Coût : {{ site.data.dates.prix_fauteuil }} pour 32 cours (année 2017 -2018)<br>Règlement en 3 fois.(octobre – janvier et avril)
 
-Reprise des cours : le Mardi 19 Septembre 2017.
+Reprise des cours : le {{ site.data.dates.date_fauteuil }}<br>
 Possibilités de stages pendant les vacances scolaires.
 
 <div class="gallery">
 	<br />
 	<ul class="thumbnails">
 		<li class="span2">
-			<img src="assets/img/activite-refection-fauteuil/IMG_1262.JPG" width="600" height="600" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
+			<img src="/assets/img/activite-refection-fauteuil/IMG_1262.JPG" width="600" height="600" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
 		</li>
 		<li class="span2">
-			<img src="assets/img/activite-refection-fauteuil/IMG_1295.JPG" width="800" height="800" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
+			<img src="/assets/img/activite-refection-fauteuil/IMG_1295.JPG" width="800" height="800" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
 		</li>
 		<li class="span2">
-			<img src="assets/img/activite-refection-fauteuil/IMG_1219.JPG" width="800" height="800" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
+			<img src="/assets/img/activite-refection-fauteuil/IMG_1219.JPG" width="800" height="800" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
 		</li>
 		<li class="span2">
-			<img src="assets/img/activite-refection-fauteuil/IMG_1212.JPG" width="600" height="600" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
+			<img src="/assets/img/activite-refection-fauteuil/IMG_1212.JPG" width="600" height="600" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
 		</li>
 		<li class="span2">
-			<img src="assets/img/activite-refection-fauteuil/IMG_1241.JPG" width="600" height="600" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
+			<img src="/assets/img/activite-refection-fauteuil/IMG_1241.JPG" width="600" height="600" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
 		</li>
 		<li class="span2">
-			<img src="assets/img/activite-refection-fauteuil/IMG_1256.JPG" width="800" height="800" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
+			<img src="/assets/img/activite-refection-fauteuil/IMG_1256.JPG" width="800" height="800" alt="réfection et tapisserie de sièges et fauteuils anciens Rouen">
 		</li>
 	</ul>
 

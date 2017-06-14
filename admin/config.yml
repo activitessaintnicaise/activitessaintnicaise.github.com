@@ -32,8 +32,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Categorie", name: "category", widget: "hidden", default: "actualites"}
   - name: "settings"
     label: "Configuration"
-    editor:
-      preview: false
     files:
       - name: "Date"
         label: "date"

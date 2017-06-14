@@ -29,22 +29,22 @@ Auprès de l’association ASN
   <br>
   <ul class="thumbnails">
     <li class="span2">
-      <img src="assets/img/activite-cannage/IMG_1398.JPG" width="800" alt="IMG 1398">
+      <img src="/assets/img/activite-cannage/IMG_1398.JPG" width="800" alt="IMG 1398">
     </li>                                                            
     <li class="span2">                                               
-      <img src="assets/img/activite-cannage/IMG_1397.JPG" width="800" alt="IMG 1397">
+      <img src="/assets/img/activite-cannage/IMG_1397.JPG" width="800" alt="IMG 1397">
     </li>                                                            
     <li class="span2">                                               
-      <img src="assets/img/activite-cannage/IMG_1396.JPG" width="800" alt="IMG 1396">
+      <img src="/assets/img/activite-cannage/IMG_1396.JPG" width="800" alt="IMG 1396">
     </li>                                                            
     <li class="span2">                                               
-      <img src="assets/img/activite-cannage/IMG_1399.JPG" width="800" alt="IMG 1399">
+      <img src="/assets/img/activite-cannage/IMG_1399.JPG" width="800" alt="IMG 1399">
     </li>                                                            
     <li class="span2">                                               
-      <img src="assets/img/activite-cannage/IMG_1400.JPG" width="800" alt="IMG 1400">
+      <img src="/assets/img/activite-cannage/IMG_1400.JPG" width="800" alt="IMG 1400">
     </li>                                                            
     <li class="span2">                                               
-      <img src="assets/img/activite-cannage/IMG_1375.JPG" width="800" alt="IMG 1375">
+      <img src="/assets/img/activite-cannage/IMG_1375.JPG" width="800" alt="IMG 1375">
     </li>
   </ul>
 
