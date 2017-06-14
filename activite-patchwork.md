@@ -20,7 +20,7 @@ Les cours sont animés par une animatrice bénévole qui a une longue expérienc
 ## Inscriptions ##
 
 Auprès de l’association ASN  
-L'adhésion à l'association s'élève à 20€ par an ; et la participation pour les frais de la location de la salle à {{ site.data.dates.prix_patchwork }} par an.
+L'adhésion à l'association s'élève à {{ site.data.prix.prix_adhesion }}  par an ; et la participation pour les frais de la location de la salle à {{ site.data.prix.prix_salle_patchwork }} par an.
 
 La reprise des cours aura lieu le {{ site.data.dates.date_patchwork }}.
 
