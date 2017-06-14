@@ -8,7 +8,7 @@ media_folder: "assets/uploads" # Folder where user uploaded files should go
 collections: # A list of collections the CMS should be able to edit
   - name: "stages" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Stages" # Used in the UI, ie.: "New Post"
-    folder: "_posts/stage" # The path to the folder where the documents are stored
+    folder: "_posts/stages" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Titre", name: "title", widget: "string", tagname: "titre"}
@@ -18,7 +18,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Categorie", name: "category", widget: "string"}
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Billet" # Used in the UI, ie.: "New Post"
-    folder: "_posts/post"
+    folder: "_posts/actualites"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
