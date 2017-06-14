@@ -56,9 +56,9 @@ Les ateliers fonctionnent de septembre à fin juin
 ## Inscriptions ##
 
  - Pour l’année de septembre à juin
- - Adhésion à l’association : 20 € par an
+ - Adhésion à l’association : {{ site.data.prix.prix_adhesion }} par an
  - Réinscription en juin pour l’année suivante.
- - Coût : {{ site.data.dates.prix_fauteuil }} pour 32 cours (année 2017 -2018)<br>Règlement en 3 fois.(octobre – janvier et avril)
+ - Coût : {{ site.data.prix.prix_fauteuil }} pour 32 cours (année 2017 -2018)<br>Règlement en 3 fois.(octobre – janvier et avril)
 
 Reprise des cours : le {{ site.data.dates.date_fauteuil }}<br>
 Possibilités de stages pendant les vacances scolaires.

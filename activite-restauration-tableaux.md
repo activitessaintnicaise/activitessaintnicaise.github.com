@@ -21,7 +21,7 @@ Les cours sont animés par une animatrice bénévole, spécialiste de la restaur
 
 Auprès de l’association
 
-*Coût :* {{ site.data.dates.prix_tableau }} par an — (Adhésion : 20 € et frais de location de salle : 20 €)
+*Coût :* {{ site.data.prix.prix_tableau }} par an — (Adhésion : {{ site.data.prix.prix_adhesion }} et frais de location de salle : {{ site.data.prix.prix_salle_tableau }})
 
 Reprise des cours le {{ site.data.dates.date_tableau }}.
 

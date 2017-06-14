@@ -32,6 +32,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Categorie", name: "category", widget: "hidden", default: "actualites"}
   - name: "settings"
     label: "Configuration"
+    editor:
+      preview: false
     files:
       - name: "Date"
         label: "date"
@@ -39,3 +41,20 @@ collections: # A list of collections the CMS should be able to edit
         description: "Date de reprises"
         fields:
           - {label: "Date fauteuil", name: "date_fauteuil", widget: "string"}
+          - {label: "Date patchwork", name: "date_patchwork", widget: "string"}
+          - {label: "Date cannage", name: "date_cannage", widget: "string", required: false}
+          - {label: "Date tableau", name: "date_tableau", widget: "string"}
+      - name: "Prix"
+        label: "prix"
+        file: "_data/prix.yml"
+        description: "Cotisations à l'association'"
+        fields:
+          - {label: "Prix adhésion", name: "prix_adhesion", widget: "string"}
+          - {label: "Prix fauteuil", name: "prix_fauteuil", widget: "string"}
+          - {label: "Prix patchwork", name: "prix_patchwork", widget: "string"}
+          - {label: "Prix cannage", name: "prix_cannage", widget: "string", required: false}
+          - {label: "Prix tableau", name: "prix_tableau", widget: "string", required: false}
+          - {label: "Prix salle fauteuil", name: "prix_salle_fauteuil", widget: "string"}
+          - {label: "Prix salle patchwork", name: "prix_salle_patchwork", widget: "string"}
+          - {label: "Prix salle cannage", name: "prix_salle_cannage", widget: "string"}
+          - {label: "Prix salle tableau", name: "prix_salle_tableau", widget: "string"}

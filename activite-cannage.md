@@ -21,7 +21,7 @@ Le calendrier est établi avec l’animatrice et les participants.
 ## Inscriptions ##
 
 Auprès de l’association ASN
-*Coût :* 25 € par an (y compris l’adhésion et la location de la salle). Et cours à régler à l’animatrice : 8 € par cours
+*Coût :* {{ site.data.dates.prix_cannage }} par an (y compris l’adhésion et la location de la salle). Et cours à régler à l’animatrice : 8 € par cours
 
 *Pas de cours prévus*
 
