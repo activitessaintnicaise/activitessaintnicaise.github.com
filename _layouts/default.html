@@ -76,9 +76,7 @@
 
     {% include JB/analytics %}
 
-    <script src="{{ site.baseurl }}/assets/script/instantclick.min.js" data-no-instant></script>
-    <script data-no-instant>
-      InstantClick.init();
+    <script>
       {% include serviceWorker.html %} 
     </script>
   </body>
