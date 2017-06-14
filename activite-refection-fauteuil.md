@@ -58,7 +58,7 @@ Les ateliers fonctionnent de septembre à fin juin
  - Pour l’année de septembre à juin
  - Adhésion à l’association : 20 € par an
  - Réinscription en juin pour l’année suivante.
- - Coût : 330 € pour 32 cours  (année 2015 -2016)<br>Règlement en 3 fois.(octobre – janvier et avril)
+ - Coût : 330 € pour 32 cours (année 2017 -2018)<br>Règlement en 3 fois.(octobre – janvier et avril)
 
 Reprise des cours : le Mardi 19 Septembre 2017.
 Possibilités de stages pendant les vacances scolaires.
