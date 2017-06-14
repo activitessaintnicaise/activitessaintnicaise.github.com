@@ -30,3 +30,14 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Contenu", name: "body", widget: "markdown"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Categorie", name: "category", widget: "hidden", default: "actualites"}
+  - name: "settings"
+    label: "Configuration"
+    editor:
+      preview: false
+    files:
+      - name: "Date"
+        label: "date"
+        file: "_data/dates.yml"
+        description: "Date de reprises"
+        fields:
+          - {label: "Date fauteuil", name: "date_fauteuil", widget: "string"}
