@@ -4,7 +4,6 @@ backend:
   branch: master # Branch to update (master by default)
 
 media_folder: "assets/uploads" # Folder where user uploaded files should go
-publish_mode: editorial_workflow
 
 collections: # A list of collections the CMS should be able to edit
   - name: "stages" # Used in routes, ie.: /admin/collections/:slug/edit
