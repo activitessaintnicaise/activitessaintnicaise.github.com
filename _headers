@@ -1,0 +1,31 @@
+/*
+    # Block site from being framed with X-Frame-Options and CSP
+    Content-Security-Policy: frame-ancestors 'none'
+    X-Frame-Options: DENY
+    # Prevent browsers from incorrectly detecting non-scripts as scripts
+    X-Content-Type-Options: nosniff
+    # HSTS preload
+    Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+    # Don't load any resource type not explicitly enabled
+    # Disable plugins like Flash or Silverlight
+    # Load images, scripts, stylesheets and fonts from self
+    # Report to report-uri.io
+    Content-Security-Policy: default-src 'self' 'unsafe-inline'; object-src 'self' https://www.youtube.com https://www.dailymotion.com https://vimeo.com https://player.vimeo.com; img-src 'self'; script-src 'self' 'unsafe-inline'; font-src 'self' data: fonts.gstatic.com; worker-src 'self'; child-src 'self' https://player.vimeo.com https://vimeo.com https://www.dailymotion.com https://www.youtube.com https://www.youtube-nocookie.com; media-src *
+    Referrer-Policy: same-origin
+    # Allow service worker to access all site
+    Service-Worker-Allowed: /
+    # XSS 
+    X-XSS-Protection:1; mode=block
+    X-Frame-Option:SAMEORIGIN
+	
+# Assets preload
+/
+  Link: </assets/css/main.css> rel=preload as=stylesheet
+  Link </assets/themes/twitter/bootstrap/css/bootstrap.min.css> rel=preload as=stylesheet
+  Link </assets/themes/twitter/bootstrap/css/bootstrap-responsive.css> rel=preload as=stylesheet
+  Link </assets/themes/twitter/css/style.css> rel=preload as=stylesheet
+  Link: </assets/js/fetch-inject.js> rel=preload as=script
+  Link: </assets/js/instantclick.min.js> rel=preload as=script
+
+/assets/*
+  Cache-Control:public,max-age=360000
