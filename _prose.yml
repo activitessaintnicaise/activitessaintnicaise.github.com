@@ -2,8 +2,8 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: ''
-  siteurl: 'http://activitesaintnicaise.org'
-  relativeLinks: 'http://activitessaintnicaise.github.com/links.jsonp'
+  siteurl: 'https://activitesaintnicaise.org'
+  relativeLinks: 'https://activitessaintnicaise.github.com/links.jsonp'
   media: 'media'
   ignore:
     - /_layouts
