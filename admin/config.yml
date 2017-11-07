@@ -28,6 +28,16 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Contenu", name: "body", widget: "markdown"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Categorie", name: "category", widget: "hidden", default: "actualites"}
+  - name: "images" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Images" # Used in the UI, ie.: "New Post"
+    folder: "_images"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Contenu", name: "image", widget: "image"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Categorie", name: "category", widget: "hidden", default: "actualites"}
   - name: "settings"
     label: "Configuration"
     editor:
