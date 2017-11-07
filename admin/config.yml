@@ -12,6 +12,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Publié", name: "published", widget: "boolean", default: true}
       - {label: "Contenu", name: "body", widget: "markdown"}
       - {label: "Période", name: "periode", widget: "string"}
       - {label: "Lieu", name: "lieu", widget: "string", default: "Maison Saint-Nicaise - Rouen"}
@@ -25,6 +26,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publié", name: "published", widget: "boolean", default: true}
       - {label: "Contenu", name: "body", widget: "markdown"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Categorie", name: "category", widget: "hidden", default: "actualites"}
@@ -35,9 +37,11 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publié", name: "published", widget: "boolean", default: true}
       - {label: "Contenu", name: "image", widget: "image"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Categorie", name: "category", widget: "hidden", default: "actualites"}
+      - {label: "Cours", name: "select", widget: "select", options: ["Fauteuil", "Tableaux", "Patchwork"]}
+
   - name: "settings"
     label: "Configuration"
     editor:
