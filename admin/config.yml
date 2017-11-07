@@ -19,7 +19,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Categorie", name: "category", widget: "hidden", default: "stages"}
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Billet" # Used in the UI, ie.: "New Post"
+    label: "Actualités" # Used in the UI, ie.: "New Post"
     folder: "_posts/actualites"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true # Allow users to create new documents in this collection
