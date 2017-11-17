@@ -1,6 +1,4 @@
 ---
-category: stages
-layout: post
 title: "Session d'initiation patine et abat jour"
 periode: 26 février 2016
 lieu: "Maison Saint-Nicaise - Rouen"

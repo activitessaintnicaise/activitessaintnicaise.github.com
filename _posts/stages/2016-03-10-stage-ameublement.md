@@ -1,6 +1,4 @@
 ---
-category: stages
-layout: post
 title: Stage ameublement
 periode: "5, 6 et 7 avril 2016"
 lieu: Maison Saint Nicaise

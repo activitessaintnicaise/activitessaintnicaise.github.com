@@ -1,8 +1,6 @@
 ---
 title: Salon déco off 2016
 published: true
-layout: post
-category: actualites
 ---
 
 L'association Saint Nicaise s'est déplacée au salon Déco off 2016 pour admirer les rues animées et décorées de Paris.

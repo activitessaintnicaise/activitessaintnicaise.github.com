@@ -1,8 +1,6 @@
 ---
 title: Retour sur les cours d'abats-jours
 published: true
-layout: post
-category: actualites
 ---
 
 L'atelier d'abats-jours s'est déroulé le 26 février 2015 à la maison Saint Nicaise. 

@@ -1,7 +1,5 @@
 ---
 title: Couture d'ameublement
-layout: post
-category: stages
 periode: Du 24 juin au 2 juillet 2015
 lieu: Maison Saint-Nicaise - Rouen
 contact: Vanessa Laplanche

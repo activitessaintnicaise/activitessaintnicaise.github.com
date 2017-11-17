@@ -29,6 +29,28 @@ collections:
     output: true
   realisations:
 
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: "_posts/stages"
+      type: posts
+    values:
+      category: stages
+  - scope:
+      path: "_posts/actualites"
+      type: posts
+    values:
+      category: actualites
+  - scope:
+      path: "_activities"
+      type: activities
+    values:
+      layout: activity
+
 # Google analyitcs API
 gadash :
   api_key : AIzaSyDbLyMADJ40iXp4JpRSRrsgAWFozSLoMvA

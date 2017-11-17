@@ -1,8 +1,6 @@
 ---
 title: Repas de la galette
 published: true
-layout: post
-category: actualites
 ---
 
 Les différents groupes participants aux activités de l'association sont invités à un repas pour fêter la nouvelle année en mangeant la galette.

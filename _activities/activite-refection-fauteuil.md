@@ -1,5 +1,4 @@
 ---
-layout: activity
 title: Réfection et tapisserie de sièges et fauteuils anciens
 description: Refaire son fauteuil - Atelier de réfection et tapisserie de sièges et fauteuils anciens
 permalink: activite-refection-fauteuil.html

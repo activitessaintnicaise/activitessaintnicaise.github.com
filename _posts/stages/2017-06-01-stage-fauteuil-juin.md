@@ -1,7 +1,5 @@
 ---
 title: Réfection de fauteuils
-layout: post
-category: stages
 periode: Du 20 juin au 6 juillet 2017
 lieu: Maison Saint-Nicaise - Rouen
 contact: Vanessa Laplanche

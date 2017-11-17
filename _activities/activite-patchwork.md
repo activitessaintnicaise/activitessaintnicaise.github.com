@@ -1,5 +1,4 @@
 ---
-layout: activity
 title: Patchwork
 description: Atelier de patchwork
 permalink: activite-patchwork.html

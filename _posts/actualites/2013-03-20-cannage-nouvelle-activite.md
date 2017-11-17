@@ -1,8 +1,6 @@
 ---
 title: Le cannage, nouvelle activité
 published: true
-layout: post
-category: actualites
 ---
 
 Une nouvelle activité est proposé par l'association Saint-Nicaise. Elle s'ajoutera à la rénovation de fauteuils anciens, le patchwork, la tapisserie à l’aiguille, la cannage et le nettoyage de tableaux.

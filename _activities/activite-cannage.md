@@ -1,5 +1,4 @@
 ---
-layout: activity
 title: Cannage de chaises
 description: Atelier de cannage de chaise
 permalink: activite-cannage.html

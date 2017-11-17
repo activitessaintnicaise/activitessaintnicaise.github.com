@@ -1,7 +1,5 @@
 ---
 title: L'ASN sera présente au Forum des Associations 2017 à Rouen
-layout: post
-category: actualites
 ---
 Votre association de loisirs créatifs et de valorisation d’objets d’arts sera présente au forum des associations de la ville de Rouen.
 

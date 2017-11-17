@@ -1,5 +1,4 @@
 ---
-layout: activity
 title: Restauration de tableaux
 description: Atelier de restauration de tableaux
 permalink: activite-restauration-tableaux.html
