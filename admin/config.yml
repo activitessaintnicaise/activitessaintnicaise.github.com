@@ -55,12 +55,6 @@ collections: # A list of collections the CMS should be able to edit
         widget: list
         fields:
           - {label: "Image", name: "image", widget: "image"}
-          - name: Activité
-            label: Activité
-            widget: relation
-            collection: activities
-            searchFields: [title]
-            valueField: title
       - name: Activité
         label: Activité
         widget: relation
