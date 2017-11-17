@@ -1,12 +1,26 @@
 ---
 layout: page
 title: Réalisations
-header: Posts By Category
 group: navigation
-published: true
+published: false
 ---
 {% include JB/setup %}
 
 {% for realisation in site.realisations %}
 	{{realisation.image}}
 {% endfor%}
+
+<div class="grid">
+{% for gallery in site.realisations %}
+{% for element in gallery.realisation %}
+	<div>
+	{% if site.environment != 'development' %}
+	{% cloudinary {{ element.image }} alt="{{element.title}}" %}
+	{% else %}
+	<img src="{{ element.image }}" alt="{{ element.title }}">
+	{% endif %}
+	<h3>{{ element.name }}</h3>
+	</div>
+{% endfor %}
+{% endfor %}
+</div>

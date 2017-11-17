@@ -8,6 +8,7 @@ include:
 #paginate: 1
 #pygment: true
 production: true
+environment: development
 env : production
 markdown: kramdown
 kramdown:
@@ -50,6 +51,9 @@ defaults:
       type: activities
     values:
       layout: activity
+
+cloudinary:
+  cloud_name: activit-s-saint-nicaise
 
 # Google analyitcs API
 gadash :

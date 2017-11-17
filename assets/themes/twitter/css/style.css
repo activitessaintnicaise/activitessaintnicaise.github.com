@@ -26,6 +26,16 @@ footer {
   border-radius: 0;
 }
 
+/* Grid
+/* ------------------------- */
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+  grid-gap: 2vmin;
+  margin-bottom: 1.5rem;
+}
+
 /* Typography ======================================================== */
 
 h1 {
