@@ -50,7 +50,7 @@ description: Les ateliers créatifs
     <li class="span3">
       <div class="thumbnail">
         <a href="{{ activity.permalink }}">
-          {% cloudinary /assets/img/{{ activity.image }} alt="{{ activity.title }}" %}
+          <img src="/assets/img/{{ activity.image }}" width="437px" height="437px" alt="{{activity.title}}">
         </a>
         <div>
           <h2><a href="{{ activity.permalink }}">{{ activity.home[0].title }}</a></h2>
