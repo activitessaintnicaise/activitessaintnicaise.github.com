@@ -55,7 +55,6 @@ collections: # A list of collections the CMS should be able to edit
         widget: list
         fields:
           - {label: "Image", name: "image", widget: "image"}
-
   - name: "settings"
     label: "Configuration"
     editor:
