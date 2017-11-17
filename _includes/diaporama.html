@@ -1,0 +1,12 @@
+{% if page.gallery %}
+<div class="gallery">
+  <br>
+  <ul class="thumbnails">
+  {% for image in page.gallery %}
+  <li class="span2">
+    <img src="/assets/img/{{image}}" width="800" alt="{{page.title}}">
+  </li>
+  {% endfor %}
+  </ul>
+</div>
+{% endif %}

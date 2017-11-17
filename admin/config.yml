@@ -30,10 +30,19 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Contenu", name: "body", widget: "markdown"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Categorie", name: "category", widget: "hidden", default: "actualites"}
+  - name: "activity" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Activités" # Used in the UI, ie.: "New Post"
+    folder: "_activities"
+    #slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publié", name: "published", widget: "boolean", default: true}
+      - {label: "Contenu", name: "body", widget: "markdown"}
   - name: "images" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Images" # Used in the UI, ie.: "New Post"
-    folder: "_images"
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    folder: "_realisations"
+    #slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -47,7 +56,7 @@ collections: # A list of collections the CMS should be able to edit
     editor:
       preview: false
     files:
-      - name: "Date"
+      - name: "Dates"
         label: "Dates"
         file: "_data/dates.yml"
         description: "Date de reprises"
@@ -56,6 +65,14 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Date patchwork", name: "date_patchwork", widget: "string", required: false}
           - {label: "Date cannage", name: "date_cannage", widget: "string", required: false}
           - {label: "Date tableau", name: "date_tableau", widget: "string", required: false}
+      - name: "Informations"
+        label: "Informations"
+        file: "_data/informations.yml"
+        description: "Informations générales"
+        fields:
+          - {label: "Référent pour contact", name: "referent", widget: "string", required: false}
+          - {label: "Numéro de téléphone", name: "telephone", widget: "string", required: false}
+          - {label: "Adresse courriel", name: "email", widget: "string", required: false}
       - name: "Prix"
         label: "Prix"
         file: "_data/prix.yml"

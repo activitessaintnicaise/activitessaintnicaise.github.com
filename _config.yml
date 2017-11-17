@@ -24,6 +24,11 @@ author:
   feedburner: activitessaintnicaise
 production_url: https://activitesaintnicaise.org
 
+collections:
+  activities:
+    output: true
+  realisations:
+
 # Google analyitcs API
 gadash :
   api_key : AIzaSyDbLyMADJ40iXp4JpRSRrsgAWFozSLoMvA

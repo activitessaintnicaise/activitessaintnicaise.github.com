@@ -17,6 +17,17 @@ description: Les ateliers créatifs
 
 <p class="highlight">ASN vous accueille à la maison des Saint-Nicaise 18, rue Poussin à Rouen. Elle vous propose différents ateliers créatifs qui se déroulent par groupe d'une dizaine de personnes avec les conseils d'un animateur ou d'un professionnel de l'activité.</p>
 
+<hr />
+
+<div style="text-align:center;">
+  {% for post in site.posts limit:1 %}
+  {% if post.category == 'actualites' %}
+   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+   {{ post.excerpt }}
+  {% endif %}
+  {% endfor %}
+  </div>
+
 <div style="margin: 1.5rem auto; text-align:center;">
   <a class="btn btn-primary btn-large" style="display: inline-block; max-width: 350px; margin-bottom: 1rem;" title="Page Facebook de l'aoosiation Saint Nicaise" href="//www.facebook.com/activitesaintnicaise"><svg style="display: inline-block; vertical-align: bottom" viewBox="0 0 33 33" width="18" height="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#fff"><g><path d="M 17.996,32L 12,32 L 12,16 l-4,0 l0-5.514 l 4-0.002l-0.006-3.248C 11.993,2.737, 13.213,0, 18.512,0l 4.412,0 l0,5.515 l-2.757,0 c-2.063,0-2.163,0.77-2.163,2.209l-0.008,2.76l 4.959,0 l-0.585,5.514L 18,16L 17.996,32z"></path></g></svg> Facebook de l'association</a>
   <a class="btn btn-primary btn-large" style="display: inline-block; max-width: 350px; margin-bottom: 1rem;" href="stages.html">Stages organisés par l'association</a>
@@ -24,44 +35,27 @@ description: Les ateliers créatifs
 
 <hr />
 
+{% for post in site.activities limit:1 %}
+{% if post.category == 'actualites' %}
+ <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+ {{ post.excerpt }}
+{% endif %}
+{% endfor %}
+
+
 <div class="row-fluid home_gallery">
   <ul class="thumbnails">
+    {%- assign activities = site.activities | sort: 'order' -%}
+    {%- for activity in activities -%}
     <li class="span3">
       <div class="thumbnail">
-        <a href="/activite-refection-fauteuil.html"><img src="/assets/img/restauration-fauteuil.jpg" width="437px" height="437px" alt="Réfection et tapisserie de fauteuils anciens"></a>
+        <a href="{{ activity.permalink }}"><img src="/assets/img/{{ activity.image }}" width="437px" height="437px" alt="{{activity.title}}"></a>
         <div>
-          <h2><a href="/activite-refection-fauteuil.html">Réfection de fauteuils</a></h2>
-          <p>Restaurez vos sièges de style avec des techniques de tapisserie traditionnelles : sangles, ressorts, crins… et l'aide d'un professeur diplômé.</p>
+          <h2><a href="{{ activity.permalink }}">{{ activity.home[0].title }}</a></h2>
+          <p>{{ activity.home[1].description }}</p>
         </div>
       </div>
     </li>
-    <li class="span3">
-      <div class="thumbnail">
-        <a href="/activite-restauration-tableaux.html"><img src="/assets/img/nettoyage-tableaux.jpg" width="437px" height="437px" alt="Nettoyage de tableaux"></a>
-        <div>
-          <h2><a href="/activite-restauration-tableaux.html">Restauration de tableaux</a></h2>
-          <p>Du nettoyage à la remise en état, pour faire revivre des tableaux anciens.</p>
-        </div>
-      </div>
-    </li>
-   <li class="span3">
-     <div class="thumbnail">
-       <a href="/activite-patchwork.html"><img src="/assets/img/patchwork.jpg" width="437px" height="437px" alt="Patchwork"></a>
-       <div>
-         <h2><a href="/activite-patchwork.html">Patchwork</a></h2>
-         <p>A propos des points, des carrés et des quitts pour créer des ouvrages décoratifs.</p>
-         <p>Echanges et partage de techniques entre membres du groupe.</p>
-       </div>
-     </div>
-   </li>
-   <li class="span3">
-    <div class="thumbnail">
-      <a href="/activite-cannage.html"><img src="/assets/img/cannage.jpg" width="437px" height="437px" alt="Cannage"></a>
-      <div>
-        <h2><a href="/activite-cannage.html">Cannage</a></h2>
-        <p>Apprendre à canner vos sièges suivant une méthode traditionnelle</p>
-      </div>
-    </div>
-  </li>
-</ul>
+    {%- endfor -%}
+  </ul>
 </div>

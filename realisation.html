@@ -1,0 +1,12 @@
+---
+layout: page
+title: Réalisations
+header: Posts By Category
+group: navigation
+published: true
+---
+{% include JB/setup %}
+
+{% for realisation in site.realisations %}
+	{{realisation.image}}
+{% endfor%}
