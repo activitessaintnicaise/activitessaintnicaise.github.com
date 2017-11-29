@@ -7,6 +7,8 @@ category: actualites
 ---
 Sous la présidence de Maryvonne Lebigre, l'assemblée générale annuelle de l'ASN s'est tenue le 15 novembre 2017, réunissant 56 de ses 76 adhérents (présents et représentés).
 
+![](/assets/uploads/20171115_192757.jpg)
+
 Cette assemblée a été l'occasion de retracer l'activité de l'association pour l'année 2016-2017 autour des différents ateliers avec un rapport adopté à l'unanimité.
 
 De même, le rapport financier a été approuvé à l'unanimité et quitus a été donné au trésorier.
