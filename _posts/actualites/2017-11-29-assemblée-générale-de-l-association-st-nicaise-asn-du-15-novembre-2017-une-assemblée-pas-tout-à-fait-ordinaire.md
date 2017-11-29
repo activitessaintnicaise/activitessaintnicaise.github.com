@@ -19,16 +19,11 @@ Au cours d'un «pot de l'amitié» ce même jour, c'est avec émotion que Valér
 
 C'est donc avec regret que nous voyons partir Maryvonne mais elle poursuivra ses travaux au sein de l'ASN dans l'atelier du tapissier et nous aurons toujours plaisir à la croiser
 
-Aux termes de cette AG, un nouveau bureau a été constitué:
+Aux termes de cette AG, un nouveau bureau a été constitué :
 
-	Valérie Lecomte-Astier – Présidente
-
-	Marie-Christine Dugelay – Vice-Présidente
-
-	Anne-Marie Merschman – Secrétaire
-
-	Denis Auvray – Secrétaire adjoint
-
-	Dominique Serrault – Trésorier
-
-	Marie-Jeanne Jubert – Trésorière adjointe
+* Valérie Lecomte-Astier – Présidente
+* Marie-Christine Dugelay – Vice-Présidente
+* Anne-Marie Merschman – Secrétaire
+* Denis Auvray – Secrétaire adjoint
+* Dominique Serrault – Trésorier
+* Marie-Jeanne Jubert – Trésorière adjointe
