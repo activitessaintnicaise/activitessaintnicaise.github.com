@@ -7,7 +7,7 @@ order: 1
 home:
   - title: Réfection de fauteuils
   - description: "Restaurez vos sièges de style avec des techniques de tapisserie traditionnelles : sangles, ressorts, crins… et l'aide d'un professeur diplômé."
-gallery: 
+gallery:
   - activite-refection-fauteuil/IMG_1262.JPG
   - activite-refection-fauteuil/IMG_1295.JPG
   - activite-refection-fauteuil/IMG_1219.JPG
@@ -38,6 +38,12 @@ Les ateliers fonctionnent de septembre à fin juin
 		<th>Soir</th>
 	</thead>
 	<tbody>
+    <tr>
+			<td>Lundi</td>
+			<td>-</td>
+			<td>14h - 17h</td>
+			<td>-</td>
+		</tr>
 		<tr>
 			<td>Mardi</td>
 			<td>9h - 12h</td>
@@ -56,7 +62,7 @@ Les ateliers fonctionnent de septembre à fin juin
 			<td>14h - 17h</td>
 			<td>-</td>
 		</tr>
-	</tbody>	
+	</tbody>
 </table>
 
 ### Comment ? ###

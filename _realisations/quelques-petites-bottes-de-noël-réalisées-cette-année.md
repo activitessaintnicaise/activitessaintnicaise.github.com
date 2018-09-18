@@ -4,7 +4,7 @@ layout: post
 realisation:
   - name: >-
       Le 13 décembre 2017, Valérie, notre présidente, animait un atelier en vue
-      de la réalisation de bottes de Noêl! Opération réussie, à renouveler
-      autour d'autres réalisétions
+      de la réalisation de bottes de Noël ! Opération réussie, à renouveler
+      autour d'autres réalisations
 ---
 
